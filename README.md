@@ -5,7 +5,7 @@ Code and data for the paper:
 A Computational Analysis of Capital vs Labour Amplification"
 
 Joy Bose, Independent Researcher, Bengaluru, India
-arXiv: [link after submission]
+
 
 ## What this repo contains
 
@@ -45,7 +45,6 @@ Full dataset available from the author on request for academic use.
 
 ## Citation
 
-[add after arXiv submission]
 
 ## License
 MIT
