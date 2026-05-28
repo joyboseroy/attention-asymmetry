@@ -1,0 +1,12 @@
+.env
+data/tweets_raw.csv
+data/tweets_combined.csv
+data/tweets_accounts.csv
+data/tweets_filtered.csv
+data/tweets_accounts_clean.csv
+data/tweets_accounts_with_followers.csv
+data/classification_validation.csv
+accounts.txt
+*.pyc
+__pycache__/
+.DS_Store
