@@ -1,0 +1,656 @@
+post_id,subreddit,corpus,subscribers,title,date,score,upvote_ratio,num_comments,num_crossposts,amplification,norm_amp,platform
+1p82cto,MachineLearning,capital,3000000,[D] Got burned by an Apple ICLR paper — it was withdrawn after my Public Comment.,2025-11-27,1610,0.99,105,0,1767.5,118.51182792792713,reddit
+1tdje2d,MachineLearning,capital,3000000,"arXiv implements 1-year ban for papers containing incontrovertible evidence of unchecked LLM-generated errors, such as hallucinated references or results. [N]",2026-05-15,684,0.99,79,0,802.5,53.80805765893156,reddit
+1rnajac,MachineLearning,capital,3000000,[P] VeridisQuo - open-source deepfake detector that combines spatial + frequency analysis and shows you where the face was manipulated,2026-03-07,634,0.96,52,0,712.0,47.73998386686513,reddit
+1lhny9b,MachineLearning,capital,3000000,"[P] This has been done like a thousand time before, but here I am presenting my very own image denoising model",2025-06-22,612,0.95,82,0,735.0,49.282146267058806,reddit
+1m3v7ll,MachineLearning,capital,3000000,[R] NeuralOS: a generative OS entirely powered by neural networks,2025-07-19,601,0.93,75,0,713.5,47.84055967557342,reddit
+1tens5n,MachineLearning,capital,3000000,Backlash against Arxiv's proposed 1 year ban is genuinely perplexing. [D],2026-05-16,572,0.96,164,0,818.0,54.847341015583815,reddit
+1qo6sai,MachineLearning,capital,3000000,[D] Some thoughts about an elephant in the room no one talks about,2026-01-27,500,0.98,101,2,655.5,43.95162840551979,reddit
+1r0tw3e,MachineLearning,capital,3000000,"[D] Ph.D. from a top Europe university, 10 papers at NeurIPS/ICML, ECML— 0 Interviews Big tech",2026-02-10,471,0.91,153,0,700.5,46.968902666768294,reddit
+1pm2zsb,MachineLearning,capital,3000000,Ilya Sutskever is puzzled by the gap between AI benchmarks and the economic impact [D],2025-12-14,469,0.95,215,0,791.5,53.070501728404146,reddit
+1r3oekq,MachineLearning,capital,3000000,[D] ICML: every paper in my review batch contains prompt-injection text embedded in the PDF,2026-02-13,454,0.98,90,0,589.0,39.4927675527859,reddit
+1lhtkr4,MachineLearning,capital,3000000,[P] I made a website to visualize machine learning algorithms + derive math from scratch,2025-06-22,436,0.99,46,0,505.0,33.860522265122036,reddit
+1n4bebi,MachineLearning,capital,3000000,[D] NeurIPS is pushing to SACs to reject already accepted papers due to venue constraints,2025-08-30,434,0.98,123,0,618.5,41.47075845738214,reddit
+1rtjirw,MachineLearning,capital,3000000,"The arXiv is separating from Cornell University, and is hiring a CEO, who will be paid roughly $300,000/year. ""After decades of productive partnership with Cornell University, and with support from th",2026-03-14,422,0.99,88,0,554.0,37.145998682925956,reddit
+1ol8wup,MachineLearning,capital,3000000,[D] ArXiv CS to stop accepting Literature Reviews/Surveys and Position Papers without peer-review.,2025-10-31,404,1.0,49,1,479.5,32.15073351708122,reddit
+1npdfh1,MachineLearning,capital,3000000,[D] Is senior ML engineering just API calls now?,2025-09-24,406,0.95,186,1,687.0,46.06372038839375,reddit
+1qjz88r,MachineLearning,capital,3000000,[D] 100 Hallucinated Citations Found in 51 Accepted Papers at NeurIPS 2025,2026-01-22,399,0.98,78,2,520.0,34.866280352204875,reddit
+1mo0ynr,MachineLearning,capital,3000000,[R] Position: The Current AI Conference Model is Unsustainable!,2025-08-12,397,0.92,52,0,475.0,31.849006090956372,reddit
+1lbct3w,MachineLearning,capital,3000000,"[D] Machine Learning, like many other popular field, has so many pseudo science people on social media",2025-06-14,382,0.95,123,0,566.5,37.984130422161655,reddit
+1ru7bnz,MachineLearning,capital,3000000,"[P] I got tired of PyTorch Geometric OOMing my laptop, so I wrote a C++ zero-copy graph engine to bypass RAM entirely.",2026-03-15,377,0.96,34,1,430.0,28.831731829707874,reddit
+1tgmwqr,MachineLearning,capital,3000000,Reviving PapersWithCode (by Hugging Face) [P],2026-05-18,369,0.99,37,1,426.5,28.59705494272188,reddit
+1p01c70,MachineLearning,capital,3000000,[D] Tsinghua ICLR paper withdrawn due to numerous AI generated citations,2025-11-18,368,0.98,66,0,467.0,31.31260177784553,reddit
+1q6cb0k,MachineLearning,capital,3000000,"[R] DeepSeek-R1’s paper was updated 2 days ago, expanding from 22 pages to 86 pages and adding a substantial amount of detail.",2026-01-07,360,0.99,23,0,394.5,26.451437690278503,reddit
+1ln4omn,MachineLearning,capital,3000000,"[R] LSTM or Transformer as ""malware packer""",2025-06-29,343,0.96,70,0,448.0,30.038641534207272,reddit
+1s7m7rn,MachineLearning,capital,3000000,[D] thoughts on the controversy about Google's new paper?,2026-03-30,336,0.96,58,1,425.0,28.496479134013597,reddit
+1m95ej0,MachineLearning,capital,3000000,"[R] NeurIPS 2025 D&amp;B: ""The evaluation is limited to 15 open-weights models ... Score: 3""",2025-07-25,333,0.97,34,0,384.0,25.74740702932052,reddit
+1lkmkuw,MachineLearning,capital,3000000,"[D] Alarming amount of schizoid people being validated by LLMs, anyone else experienced this?",2025-06-26,329,0.9,154,0,560.0,37.54830191775909,reddit
+1q11e11,MachineLearning,capital,3000000,[R] New paper by DeepSeek: mHC: Manifold-Constrained Hyper-Connections,2026-01-01,308,0.98,52,0,386.0,25.881508107598233,reddit
+1ookxb0,MachineLearning,capital,3000000,[R] Knowledge Graph Traversal With LLMs And Algorithms,2025-11-04,309,0.96,31,0,355.5,23.83646666386314,reddit
+1ovm4fd,MachineLearning,capital,3000000,[R] LeJEPA: New Yann Lecun paper,2025-11-13,306,0.98,34,0,357.0,23.93704247257142,reddit
+1rr7vup,MachineLearning,capital,3000000,[D] Can we stop glazing big labs and universities?,2026-03-11,302,0.9,41,0,363.5,24.37287097697398,reddit
+1sj6sas,MachineLearning,capital,3000000,"""There's a new generation of empirical deep learning researchers, hacking away at whatever seems trendy, blowing with the wind"" [D]",2026-04-12,295,0.94,105,1,454.5,30.474470038609834,reddit
+1r02y6y,MachineLearning,capital,3000000,[P] A Python library processing geospatial data for GNNs with PyTorch Geometric,2026-02-09,291,0.99,11,1,309.5,20.752141863475785,reddit
+1q0cmvw,MachineLearning,capital,3000000,[P] My DC-GAN works better then ever!,2025-12-31,293,0.94,58,0,380.0,25.4792048727651,reddit
+1pcaxi3,MachineLearning,capital,3000000,[D] Published paper uses hardcoded seed and collapsed model to report fraudulent results,2025-12-02,287,0.96,65,0,384.5,25.780932298889947,reddit
+1l0xvq9,MachineLearning,capital,3000000,[P] Interactive Pytorch visualization package that works in notebooks with 1 line of code,2025-06-01,290,0.99,27,0,330.5,22.16020318539175,reddit
+1s3j3ef,MachineLearning,capital,3000000,[D] Is LeCun’s $1B seed round the signal that autoregressive LLMs have actually hit a wall for formal reasoning?,2026-03-25,280,0.86,115,0,452.5,30.340368960332125,reddit
+1s6uqns,MachineLearning,capital,3000000,[P] Built an open source tool to find the location of any street picture,2026-03-29,276,0.93,35,3,334.5,22.428405341947173,reddit
+1ojeldl,MachineLearning,capital,3000000,[D]NLP conferences look like a scam..,2025-10-29,270,0.92,57,0,355.5,23.83646666386314,reddit
+1o1jdd7,MachineLearning,capital,3000000,[D] Bad Industry research gets cited and published at top venues. (Rant/Discussion),2025-10-08,264,0.94,72,0,372.0,24.942800559654255,reddit
+1qd696s,MachineLearning,capital,3000000,"Nvidia: End-to-End Test-Time Training for Long Context aka Being Able To Update A Model's Weights In Real-Time As You Use It | ""TTT changes the paradigm from retrieving info to learning it on the fly.",2026-01-15,263,0.98,27,0,303.5,20.34983862864265,reddit
+1r7ruu8,MachineLearning,capital,3000000,"[D] We tested the same INT8 model on 5 Snapdragon chipsets. Accuracy ranged from 93% to 71%. Same weights, same ONNX file.",2026-02-18,267,0.98,37,1,324.5,21.757899950558617,reddit
+1sun588,MachineLearning,capital,3000000,There Will Be a Scientific Theory of Deep Learning [R],2026-04-24,260,0.89,54,1,343.0,22.998334924627443,reddit
+1tfh2s9,MachineLearning,capital,3000000,Program misleading high school students into paying to perform academic misconduct in ML Research [D],2026-05-17,259,0.97,38,0,316.0,21.187970367878346,reddit
+1r5gogk,MachineLearning,capital,3000000,Can we stop these LLM posts and replies? [D],2026-02-15,255,0.95,49,0,328.5,22.02610210711404,reddit
+1n4y2y3,MachineLearning,capital,3000000,[D] Huawei’s 96GB GPU under $2k – what does this mean for inference?,2025-08-31,251,0.86,116,0,425.0,28.496479134013597,reddit
+1l9lb0c,MachineLearning,capital,3000000,[P]: I reimplemented all of frontier deep learning from scratch to help you learn,2025-06-12,247,0.87,21,0,278.5,18.673575150171263,reddit
+1sbzxwn,MachineLearning,capital,3000000,[D] Those of you with 10+ years in ML — what is the public completely wrong about?,2026-04-04,244,0.93,280,0,664.0,44.521557988200065,reddit
+1l4rpe2,MachineLearning,capital,3000000,"[R] LLMs are Locally Linear Mappings: Qwen 3, Gemma 3 and Llama 3 can be converted to exactly equivalent locally linear systems for interpretability",2025-06-06,241,0.95,46,0,310.0,20.785667133045212,reddit
+1rsdify,MachineLearning,capital,3000000,[D] What is even the point of these LLM benchmarking papers?,2026-03-13,240,0.96,79,0,358.5,24.037618281279705,reddit
+1tfv0vh,MachineLearning,capital,3000000,Slop is making me feel disconnected from AI Research [D],2026-05-17,236,0.89,83,0,360.5,24.171719359557414,reddit
+1rl9j3s,MachineLearning,capital,3000000,"[D] A mathematical proof from an anonymous Korean forum: The essence of Attention is fundamentally a d^2 problem, not n^2. (PDF included)",2026-03-05,237,0.91,80,1,359.0,24.071143550849133,reddit
+1kz5t16,MachineLearning,capital,3000000,[R] The Resurrection of the ReLU,2025-05-30,233,0.97,63,0,327.5,21.959051567975184,reddit
+1qi8twv,MachineLearning,capital,3000000,[P] I Gave Claude Code 9.5 Years of Health Data to Help Manage My Thyroid Disease,2026-01-20,230,0.89,55,0,312.5,20.953293480892352,reddit
+1mfi8li,MachineLearning,capital,3000000,[R] From Taylor Series to Fourier Synthesis: The Periodic Linear Unit,2025-08-02,229,0.93,50,0,304.0,20.383363898212078,reddit
+1m5qudf,MachineLearning,capital,3000000,[D] Gemini officially achieves gold-medal standard at the International Mathematical Olympiad,2025-07-21,231,0.94,69,0,334.5,22.428405341947173,reddit
+1sdmn97,MachineLearning,capital,3000000,[D] How to break free from LLM's chains as a PhD student?,2026-04-06,226,0.93,106,0,385.0,25.814457568459375,reddit
+1r8y1ha,MachineLearning,capital,3000000,[R] Analysis of 350+ ML competitions in 2025,2026-02-19,221,0.98,11,3,243.5,16.32680628031132,reddit
+1ms9d2u,MachineLearning,capital,3000000,[R] Dino v3: Self-supervised learning for vision at unprecedented scale,2025-08-16,217,0.98,19,0,245.5,16.46090735858903,reddit
+1qno68x,MachineLearning,capital,3000000,Advice for PhD students in this Al slop paper era - I feel academia needs serious revisions! [D],2026-01-26,221,0.92,59,0,309.5,20.752141863475785,reddit
+1rq6g08,MachineLearning,capital,3000000,How I topped the Open LLM Leaderboard using 2x 4090 GPUs - Research notes in Blog form,2026-03-10,213,0.97,34,0,264.0,17.70134233265786,reddit
+1soj65c,MachineLearning,capital,3000000,Zero-shot World Models Are Developmentally Efficient Learners [R],2026-04-18,213,0.96,35,0,265.5,17.80191814136614,reddit
+1ornns5,MachineLearning,capital,3000000,[D] Why TPUs are not as famous as GPUs,2025-11-08,212,0.92,97,0,357.5,23.97056774214085,reddit
+1laqsz2,MachineLearning,capital,3000000,[P] 3Blue1Brown Follow-up: From Hypothetical Examples to LLM Circuit Visualization,2025-06-13,209,0.97,18,0,236.0,15.823927236769903,reddit
+1popuf4,MachineLearning,capital,3000000,[P] Eigenvalues as models,2025-12-17,209,0.94,43,0,273.5,18.338322454476984,reddit
+1ophthe,MachineLearning,capital,3000000,Reasoning models don't degrade gracefully - they hit a complexity cliff and collapse entirely [Research Analysis] [R],2025-11-05,210,0.95,48,0,282.0,18.908252037157258,reddit
+1nfav96,MachineLearning,capital,3000000,[D] Larry Ellison: “Inference is where the money is going to be made.”,2025-09-12,207,0.93,104,0,363.0,24.339345707404554,reddit
+1ltejq6,MachineLearning,capital,3000000,[D] Remembering Felix Hill and the pressure of doing AI research,2025-07-06,208,0.97,22,0,241.0,16.15917993246418,reddit
+1mtfikh,MachineLearning,capital,3000000,[D] Conferences need to find better venues,2025-08-18,209,0.93,51,0,285.5,19.142928924143252,reddit
+1q3rxa3,MachineLearning,capital,3000000,[D] My Machine learning research notes: 15 years of continuous writing and 8.8k GitHub stars!,2026-01-04,203,0.97,12,4,229.0,15.354573462797914,reddit
+1n1wm8n,MachineLearning,capital,3000000,[N] Unprecedented number of submissions at AAAI 2026,2025-08-27,205,0.94,110,0,370.0,24.808699481376543,reddit
+1nomagf,MachineLearning,capital,3000000,[D]: How do you actually land a research scientist intern role at a top lab/company?!,2025-09-23,202,0.97,54,2,287.0,19.243504732851534,reddit
+1px1agd,MachineLearning,capital,3000000,[D] r/MachineLearning - a year in review,2025-12-27,201,0.97,16,2,229.0,15.354573462797914,reddit
+1sjb0qi,MachineLearning,capital,3000000,Gary Marcus on the Claude Code leak [D],2026-04-12,195,0.85,71,0,301.5,20.21573755036494,reddit
+1repn7v,MachineLearning,capital,3000000,[D] ML Engineers — How did you actually learn PyTorch? I keep forgetting everything.,2026-02-25,193,0.95,66,0,292.0,19.578757428545813,reddit
+1rx201a,MachineLearning,capital,3000000,[D] ICML rejects papers of reviewers who used LLMs despite agreeing not to,2026-03-18,192,0.97,76,0,306.0,20.51746497648979,reddit
+1pcgmma,MachineLearning,capital,3000000,[D] On low quality reviews at ML conferences,2025-12-02,197,0.92,57,0,282.5,18.941777306726685,reddit
+1t5anla,MachineLearning,capital,3000000,Stop letting LLMs edit your .bib [D],2026-05-06,192,0.96,35,1,246.5,16.527957897727887,reddit
+1l7bo8h,MachineLearning,capital,3000000,[D] What underrated ML techniques are better than the defaults,2025-06-09,188,0.98,82,0,311.0,20.852717672184067,reddit
+1sml5fo,MachineLearning,capital,3000000,Failure to Reproduce Modern Paper Claims [D],2026-04-15,185,0.97,50,0,260.0,17.433140176102437,reddit
+1s0qi41,MachineLearning,capital,3000000,[N] MIT Flow Matching and Diffusion Lecture 2026,2026-03-22,190,0.97,20,0,220.0,14.751118610548215,reddit
+1syjlc2,MachineLearning,capital,3000000,Why isn’t LLM reasoning done in vector space instead of natural language?[D],2026-04-29,184,0.96,72,0,292.0,19.578757428545813,reddit
+1rs56wa,MachineLearning,capital,3000000,CVPR workshop farming citations - how is this ethical?? [D],2026-03-12,189,0.98,34,1,242.0,16.226230471603035,reddit
+1p8qru0,MachineLearning,capital,3000000,[D] ICLR reviewers being doxed on OpenReview,2025-11-28,180,0.95,38,0,237.0,15.890977775908759,reddit
+1ou77gn,MachineLearning,capital,3000000,[R] Unvalidated Trust: Cross-Stage Vulnerabilities in LLMs,2025-11-11,181,0.99,7,0,191.5,12.840178245090833,reddit
+1ng6dsf,MachineLearning,capital,3000000,[D] which papers HAVEN'T stood the test of time?,2025-09-13,179,0.96,158,0,416.0,27.893024281763896,reddit
+1q72bd8,MachineLearning,capital,3000000,[D] I summarized my 4-year PhD on Geometric Deep Learning for Molecular Design into 3 research questions,2026-01-08,179,0.96,14,1,202.0,13.544208906048816,reddit
+1od3j63,MachineLearning,capital,3000000,[N] Pondering how many of the papers at AI conferences are just AI generated garbage.,2025-10-22,178,0.9,65,0,275.5,18.472423532754696,reddit
+1rlnwsk,MachineLearning,capital,3000000,[D] AMA Secure version of OpenClaw,2026-03-05,179,0.92,114,1,352.0,23.601789776877144,reddit
+1s0hcit,MachineLearning,capital,3000000,[D] Has industry effectively killed off academic machine learning research in 2026?,2026-03-22,172,0.82,65,0,269.5,18.070120297921562,reddit
+1nicdse,artificial,capital,800000,"UAE deposited $2 billion in Trump's crypto firm, then two weeks later Trump gave them AI chips",2025-09-16,4724,0.99,162,8,4983.0,366.60278075988373,reddit
+1ti5pq7,artificial,capital,800000,“AI vs Creativity” from a pro-AI greedy corpo,2026-05-20,3253,0.97,383,5,3837.5,282.32754789605735,reddit
+1t2z0tn,artificial,capital,800000,"Richard Dawkins spent 3 days with Claude and named her ""Claudia."" what he concluded after is hard to defend.",2026-05-03,3173,0.92,1349,3,5202.5,382.75154864605565,reddit
+1sfqix8,artificial,capital,800000,this is how an AI generated cow looked 12 years ago,2026-04-08,2392,0.9,339,3,2906.5,213.83322943580214,reddit
+1sx7sjl,artificial,capital,800000,A comedian’s strategy for poisoning AI training data,2026-04-27,1782,0.96,213,2,2105.5,154.90310152316582,reddit
+1qcpxzs,artificial,capital,800000,Senate passes bill letting victims sue over Grok AI explicit images,2026-01-14,1725,0.97,158,1,1964.0,144.49284796556526,reddit
+1tax3dz,artificial,capital,800000,My god there is an enormous crash just waiting to happen,2026-05-12,1579,0.86,619,2,2511.5,184.77280431034478,reddit
+1t6zm1l,artificial,capital,800000,Marc Andreessen Mocked for Accidentally Revealing That He Seems to Have a Deep Misunderstanding of How AI Actually Works,2026-05-08,1529,0.97,278,0,1946.0,143.16857542820264,reddit
+1m56uby,artificial,capital,800000,Trump puts up AI video of Obama being arrested by the FBI in the Oval Office,2025-07-21,1428,0.95,170,1,1685.0,123.96662363644474,reddit
+1lbbrch,artificial,capital,800000,2022 vs 2025 AI-image.,2025-06-14,1428,0.93,204,3,1740.0,128.01301194505274,reddit
+1sc3kpj,artificial,capital,800000,OpenAI CEO Sam Altman accused of sexual abuse by family member,2026-04-04,1331,0.9,258,0,1718.0,126.39445662160954,reddit
+1m81aez,artificial,capital,800000,My boss used AI for 2 hours to solve a problem I fixed in 10 minutes,2025-07-24,1297,0.91,290,1,1734.0,127.57158776593185,reddit
+1leilnj,artificial,capital,800000,Elon Musk calls Grok answer a ‘major fail’ after it highlights political violence caused by MAGA supporters,2025-06-18,1229,0.96,132,1,1429.0,105.13252532728755,reddit
+1ovig5s,artificial,capital,800000,OpenAI says it plans to report stunning annual losses through 2028—and then turn wildly profitable just two years later | Fortune,2025-11-12,1207,0.98,318,0,1684.0,123.89305293992459,reddit
+1ncgadv,artificial,capital,800000,"If AGI is so ""inevitable"", you shouldn't care about any regulations.",2025-09-09,1183,0.92,129,0,1376.5,101.27006375997993,reddit
+1slu23a,artificial,capital,800000,🚨 RED ALERT: Tennessee is about to make building chatbots a Class A felony (15-25 years in prison). This is not a drill.,2026-04-15,1177,0.87,636,6,2143.0,157.66200264267127,reddit
+1tkb0op,artificial,capital,800000,Microsoft Cancels Internal Anthropic Licenses As Shift To Token-Based AI Billing Blows Up Annual Budgets In Months,2026-05-22,1158,0.99,145,1,1377.5,101.34363445650007,reddit
+1mv1mxo,artificial,capital,800000,Anthropic CEO: AI Will Be Writing 90% of Code in 3 to 6 Months (March 2025),2025-08-20,1129,0.93,354,4,1668.0,122.71592179560227,reddit
+1mp5mks,artificial,capital,800000,This is downright terrifying and sad. Gemini AI has a breakdown,2025-08-13,1128,0.88,560,2,1972.0,145.08141353772643,reddit
+1luepc1,artificial,capital,800000,Barack Obama says the AI revolution isn't hype -- it's already here and coming faster than people realize,2025-07-08,1107,0.9,373,2,1670.5,122.89984853690262,reddit
+1nhg1v9,artificial,capital,800000,Elon continues to openly try (and fail) to manipulate Grok's political views,2025-09-15,1105,0.9,300,5,1565.0,115.1381400540273,reddit
+1qozsna,artificial,capital,800000,"Trump’s acting cyber chief uploaded sensitive files into a public version of ChatGPT.
+The interim director of the Cybersecurity and Infrastructure Security Agency triggered an internal cybersecurity w",2026-01-28,1058,0.99,38,1,1117.0,82.17846801300223,reddit
+1ne447g,artificial,capital,800000,People leaving AI companies be like,2025-09-11,1055,0.97,35,0,1107.5,81.47954639606085,reddit
+1rfsjv7,artificial,capital,800000,Anthropic rejects latest Pentagon offer: ‘We cannot in good conscience accede to their request’,2026-02-27,1040,0.99,86,0,1169.0,86.0041442320498,reddit
+1nmzhhf,artificial,capital,800000,Microsoft CEO Concerned AI Will Destroy the Entire Company,2025-09-21,960,0.95,231,1,1308.5,96.26725639661005,reddit
+1rb0619,artificial,capital,800000,"Fake faces generated by AI are now ""too good to be true,"" researchers warn",2026-02-21,954,0.95,249,2,1331.5,97.95938241657339,reddit
+1likzg2,artificial,capital,800000,"You won't lose your job to AI, but to...",2025-06-23,944,0.87,218,6,1283.0,94.39120363534634,reddit
+1p1pmfv,artificial,capital,800000,No bailout will be provided when AI bubble bursts,2025-11-20,913,0.92,254,1,1296.0,95.34762269010824,reddit
+1svitaf,artificial,capital,800000,"Palantir employees are talking about company's ""descent into fascism"".  Slack messages, interviews with current and former works paint picture of company in turmoil.",2026-04-25,896,0.98,72,0,1004.0,73.86497930622582,reddit
+1s828dj,artificial,capital,800000,"World models will be the next big thing, bye-bye LLMs",2026-03-30,875,0.87,399,5,1483.5,109.14212828763547,reddit
+1lpsts5,artificial,capital,800000,AI girlfriends is really becoming a thing,2025-07-02,868,0.97,234,2,1223.0,89.97696184413763,reddit
+1n6lpl8,artificial,capital,800000,"AMA with Qoder Team: an agentic coding platform for real software delegation (not just line-by-line). 100K developers in 5 days — plus a 2,000-credit giveaway for everyone.",2025-09-02,855,0.99,121,10,1056.5,77.72744087353345,reddit
+1t1mhx6,artificial,capital,800000,Uber burned its entire 2026 AI coding budget in 4 months - $500-2k per engineer per month,2026-05-02,831,0.96,331,1,1329.5,97.8122410235331,reddit
+1szoe78,artificial,capital,800000,Anthropic mass shipped 9 connectors and accidentally leaked their entire creative industry strategy,2026-04-30,828,0.94,219,3,1162.5,85.52593470466884,reddit
+1nemzvd,artificial,capital,800000,Users on X are using AI to animate still images of the Charlie Kirk suspect which results in a complete distortion of the original image,2025-09-11,818,0.95,164,1,1066.0,78.42636249047483,reddit
+1pb1sr3,artificial,capital,800000,Gemini 3 is pulling the same dynamic downgrade scam that ruined the GPT-5 launch,2025-12-01,810,0.92,208,0,1122.0,82.54632149560297,reddit
+1oj78v6,artificial,capital,800000,"Grieving family uses AI chatbot to cut hospital bill from $195,000 to $33,000 — family says Claude highlighted duplicative charges, improper coding, and other violations",2025-10-29,799,0.98,78,0,916.0,67.39075801245305,reddit
+1tbasiz,artificial,capital,800000,"I made an agentic ""Daily Brief"" for my kids with a receipt printer",2026-05-12,797,0.9,278,2,1218.0,89.60910836153691,reddit
+1lvfmnj,artificial,capital,800000,"Grok was shut down after it started calling itself ""MechaHitler""",2025-07-09,764,0.96,163,0,1008.5,74.19604744056647,reddit
+1lff4gj,artificial,capital,800000,The craziest things revealed in The OpenAI Files,2025-06-19,754,0.96,115,3,932.5,68.60467450503545,reddit
+1mtptiv,artificial,capital,800000,"This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he'd do it again",2025-08-18,747,0.93,154,0,978.0,71.95214119670204,reddit
+1pywbnz,artificial,capital,800000,The TRUMP AMERICA AI Act is every bit as bad as you would expect. Maybe worse.,2025-12-29,743,0.91,145,0,960.5,70.66465400759951,reddit
+1td99uw,artificial,capital,800000,Anthropic just published a pretty alarming 2028 AI scenario paper  and it's not about AGI safety in the usual sense,2026-05-14,742,0.82,496,3,1492.0,109.7674792080567,reddit
+1lyqjgn,artificial,capital,800000,Grok says its surname is Hitler,2025-07-13,726,0.91,106,1,887.0,65.25720781336884,reddit
+1nwa8aq,artificial,capital,800000,Google is blocking AI searches for Trump and dementia,2025-10-02,713,0.96,60,0,803.0,59.07726930567663,reddit
+1o5kb52,artificial,capital,800000,Sora 2 was a massive mistake and AI needs to regress.,2025-10-13,713,0.9,248,0,1085.0,79.8242057243576,reddit
+1rcxj45,artificial,capital,800000,IBM stock tumbles 10% after Anthropic launches COBOL AI tool,2026-02-23,697,0.97,119,0,875.5,64.41114480338716,reddit
+1sderg4,artificial,capital,800000,I have been coding for 11 years and I caught myself completely unable to debug a problem without AI assistance last month. That scared me more than anything I have seen in this industry.,2026-04-05,685,0.93,211,2,1005.5,73.97533535100604,reddit
+1pmuboi,artificial,capital,800000,Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot,2025-12-15,670,0.97,127,0,860.5,63.307584355584986,reddit
+1pf0p2w,artificial,capital,800000,'Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win',2025-12-05,670,0.95,116,0,844.0,62.09366786300259,reddit
+1ljg8i1,artificial,capital,800000,"Today, the very fields once hailed as bulletproof - computer science and engineering - have the highest unemployment rates among college majors",2025-06-24,659,0.94,151,1,887.5,65.2939931616289,reddit
+1rva72t,artificial,capital,800000,‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images,2026-03-16,656,0.97,79,1,776.5,57.12764584789278,reddit
+1m217vz,artificial,capital,800000,Probably the best use of AI yet,2025-07-17,642,0.97,32,1,692.0,50.91092199194051,reddit
+1pry2ph,artificial,capital,800000,"Republicans make deepfake AI video of Democrat giving a kid trans hormone therapy.
+The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because t",2025-12-21,636,0.93,44,0,702.0,51.646628957141964,reddit
+1rp3vku,artificial,capital,800000,Anthropic sues Trump administration over Pentagon blacklist,2026-03-09,640,0.98,49,0,713.5,52.49269196712363,reddit
+1qmm0vd,artificial,capital,800000,BBC reports that Chinese open models continue to steadily muscle out closed offering from US companies,2026-01-25,618,0.96,87,1,750.5,55.214807738369004,reddit
+1okb894,artificial,capital,800000,Jerome Powell says the AI hiring apocalypse is real: 'Job creation is pretty close to zero.’ | Fortune,2025-10-30,621,0.94,178,0,888.0,65.33077850988897,reddit
+1m4ls23,artificial,capital,800000,"Replit AI went rogue, deleted a company's entire database, then hid it and lied about it",2025-07-20,616,0.92,237,1,973.5,71.62107306236139,reddit
+1r5xr49,artificial,capital,800000,"‘Pulp Fiction’ co-writer Roger Avary says it was ""impossible"" to get his movies made until he started an AI production company: ""Just Put AI in Front of It and All of a Sudden You’re in Production on ",2026-02-16,607,0.96,106,1,768.0,56.502294927471546,reddit
+1tdw8if,artificial,capital,800000,Recent poll shows that 70% of Americans don't want AI data centers being built in their local area,2026-05-15,586,0.96,152,0,814.0,59.88654696739823,reddit
+1l8rmhq,artificial,capital,800000,Sam Altman claims an average ChatGPT query uses ‘roughly one fifteenth of a teaspoon’ of water,2025-06-11,582,0.89,271,0,988.5,72.72463351016357,reddit
+1syp2jz,artificial,capital,800000,‘The cost of compute is far beyond the costs of the employees’: Nvidia exec says right now AI is more expensive than paying human workers,2026-04-29,577,0.98,156,0,811.0,59.665834877837796,reddit
+1p8le8l,artificial,capital,800000,"Chinese startup founded by Google engineer claims to have developed its own TPU chip for AI — custom ASIC reportedly 1.5 times faster than Nvidia's A100 GPU from 2020, 42% more efficient",2025-11-28,576,0.94,128,0,768.0,56.502294927471546,reddit
+1mml6bf,artificial,capital,800000,"How is everyone barely talking about this? I get that AI stealing artists' commisions is bad, but Israel literally developed a database that can look at CCTV footage, determine someone deemed a terror",2025-08-10,570,0.85,180,0,840.0,61.79938507692201,reddit
+1n6g8p8,artificial,capital,800000,South Park on AI sycophancy,2025-09-02,567,0.97,67,4,675.5,49.69700549935811,reddit
+1ox5djz,artificial,capital,800000,China just used Claude to hack 30 companies. The AI did 90% of the work. Anthropic caught them and is telling everyone how they did it.,2025-11-14,564,0.84,108,2,730.0,53.706608459706025,reddit
+1pbbs4e,artificial,capital,800000,Elon Musk's AI Grok says it would kill all Jewish people to save his brain,2025-12-01,556,0.87,152,0,784.0,57.67942607179387,reddit
+1ob3byr,artificial,capital,800000,Trump Posts Bizarre AI Video in Which He Airdrops Feces On ‘No Kings’ Protesters,2025-10-19,548,0.94,89,1,683.5,50.28557107151927,reddit
+1srmdg7,artificial,capital,800000,"Apple's play for AI is a hardware bet, not software",2026-04-21,545,0.86,228,1,889.0,65.40434920640912,reddit
+1l3edw8,artificial,capital,800000,"Reddit sues Anthropic, alleging its bots accessed Reddit more than 100,000 times since last July",2025-06-04,550,0.98,85,0,677.5,49.844146892398406,reddit
+1rgrccs,OpenAI,capital,1500000,The end of GPT,2026-02-28,24818,0.93,2854,5,29109.0,2046.9058747384727,reddit
+1pi9b6o,OpenAI,capital,1500000,OpenAI profit,2025-12-09,12936,0.98,374,5,13507.0,949.794140990503,reddit
+1mmm614,OpenAI,capital,1500000,r/ChatGPT right now,2025-08-10,12610,0.92,891,3,13952.5,981.1211040327232,reddit
+1mod691,OpenAI,capital,1500000,"Grok has Called Elon Musk a ""Hypocrite"" in latest Billionaire Fight 🍿",2025-08-12,11788,0.96,322,2,12275.0,863.1615518367087,reddit
+1ne90w5,OpenAI,capital,1500000,Enjoy ChatGPT while it lasts…. the ads are coming,2025-09-11,9445,0.97,426,0,10084.0,709.0933677166086,reddit
+1n5wdke,OpenAI,capital,1500000,Do users ever use your AI in completely unexpected ways?,2025-09-01,8438,0.94,463,2,9136.5,642.4664373406182,reddit
+1mjva66,OpenAI,capital,1500000,More info coming in on GPT-5,2025-08-07,7224,0.95,150,2,7453.0,524.084973184439,reddit
+1t0go85,OpenAI,capital,1500000,Asked ChatGPT to visualize a horizontal integral. It gave me a dog.,2026-05-01,6976,0.98,343,3,7496.5,527.1438348956323,reddit
+1o7w3mj,OpenAI,capital,1500000,This guy literally explains how to build your own ChatGPT (for free),2025-10-16,6662,0.97,178,8,6945.0,488.36309389050444,reddit
+1nifk6q,OpenAI,capital,1500000,The Most insane use of ChatGPT so far.,2025-09-16,6511,0.91,387,5,7101.5,499.3679641847973,reddit
+1n0rm65,OpenAI,capital,1500000,From NY Times (Instagram),2025-08-26,6469,0.86,1703,11,9045.5,636.067439278122,reddit
+1mlzo12,OpenAI,capital,1500000,What is going on in r/chatgpt? this is not normal.,2025-08-09,6015,0.9,1945,5,8942.5,628.8246172952968,reddit
+1n3tjzz,OpenAI,capital,1500000,ChatGPT user kills himself and his mother,2025-08-30,5802,0.93,947,12,7246.5,509.5641698887747,reddit
+1oksww0,OpenAI,capital,1500000,OpenAI will be the first non-profit to IPO,2025-10-31,5806,0.97,361,0,6347.5,446.34769452411473,reddit
+1oel2i7,OpenAI,capital,1500000,me after 10 mins of ChatGPT Atlas Browser,2025-10-24,5676,0.97,462,1,6371.0,448.00018303475935,reddit
+1mo6a53,OpenAI,capital,1500000,billionaire twitter fight of the week,2025-08-12,5377,0.96,310,2,5846.0,411.0828865203584,reddit
+1mj1xg9,OpenAI,capital,1500000,GPT 5 to scale,2025-08-06,5335,0.92,301,5,5796.5,407.60211284900055,reddit
+1mlin6s,OpenAI,capital,1500000,GPT-5 scored 70 on the offline IQ Test,2025-08-09,5261,0.96,389,1,5846.5,411.1180458503721,reddit
+1ne4jca,OpenAI,capital,1500000,AI is quietly taking over the British government,2025-09-11,5200,0.95,228,1,5544.0,389.8466511920744,reddit
+1loljy7,OpenAI,capital,1500000,Zuckerberg basically poached all the talent that delivered last 12 months of OpenAI products,2025-06-30,5141,0.96,699,1,6191.5,435.37798355983557,reddit
+1lyqk05,OpenAI,capital,1500000,Grok says its surname is Hitler,2025-07-13,4896,0.97,264,0,5292.0,372.1263488651619,reddit
+1tf0ovg,OpenAI,capital,1500000,"Thank you ChatGPT, this is very helpful.",2026-05-16,4644,0.98,202,2,4951.0,348.1476857958081,reddit
+1mw54e4,OpenAI,capital,1500000,"""GPT-5 just casually did new mathematics ... It wasn't online. It wasn't memorized. It was new math.""",2025-08-21,4623,0.69,1657,14,7136.5,501.8291172857574,reddit
+1mojmqz,OpenAI,capital,1500000,🤔 Elon Musk pays 200$ for openai,2025-08-12,4528,0.95,494,2,5273.0,370.79029432464074,reddit
+1mwli2f,OpenAI,capital,1500000,We Got 100% Real-Time Playable AI Generated Red Dead Redemption 2 Before GTA 6...,2025-08-21,4506,0.9,490,9,5259.0,369.8058330842567,reddit
+1qetta9,OpenAI,capital,1500000,How the hell can a screen protector be optimized for AI?💀,2026-01-16,4488,0.98,285,1,4917.5,345.7920106848892,reddit
+1na1zyf,OpenAI,capital,1500000,Openai just found cause of hallucinations of models !!,2025-09-06,4414,0.9,553,4,5251.5,369.278443134051,reddit
+1ovuzx2,OpenAI,capital,1500000,They copied the whole ChatGPT answer and even kept the part where it offers to make it prettier.,2025-11-13,4399,0.98,137,5,4614.5,324.4854566965778,reddit
+1nuaopt,OpenAI,capital,1500000,Imagine the existential horror of finding out you're an AI inside Minecraft,2025-09-30,4355,0.99,138,0,4562.0,320.7937270451377,reddit
+1likqr5,OpenAI,capital,1500000,Learn to use AI or... uh...,2025-06-23,4305,0.85,332,8,4819.0,338.8656226721873,reddit
+1r4losc,OpenAI,capital,1500000,Asking both ChatGPT and Claude the car wash question,2026-02-14,4140,0.98,586,3,5025.0,353.35126663783797,reddit
+1rnogo6,OpenAI,capital,1500000,OpenAI head of Hardware and Robotics resigns,2026-03-07,4132,0.98,251,0,4508.5,317.03167873367016,reddit
+1mkkued,OpenAI,capital,1500000,"After a thorough evaluation of ChatGPT 5, these are my realizations",2025-08-08,4058,0.95,636,0,5012.0,352.43712405748136,reddit
+1sdyg8c,OpenAI,capital,1500000,New Yorker published a major investigation into Sam Altman and OpenAI today — based on never-before-disclosed internal memos and 100+ interviews,2026-04-06,4007,0.98,330,1,4504.0,316.7152447635467,reddit
+1mzqt4s,OpenAI,capital,1500000,I found this amusing,2025-08-25,3937,0.98,206,2,4250.0,298.8543051165794,reddit
+1qny1bg,OpenAI,capital,1500000,They know they cooked 😭,2026-01-27,3932,0.95,423,2,4570.5,321.39143565537086,reddit
+1oiiw6x,OpenAI,capital,1500000,They know how to spoil a software developer 😄,2025-10-28,3853,0.94,176,2,4121.0,289.78319797304084,reddit
+1tidhds,OpenAI,capital,1500000,First signs of AGI in Amsterdam,2026-05-20,3838,0.97,154,1,4071.0,286.2672649716693,reddit
+1omrcq4,OpenAI,capital,1500000,the billionaires' feud continues.. but sam is actually talking sense here,2025-11-02,3725,0.93,318,2,4206.0,295.76028407537245,reddit
+1ooow56,OpenAI,capital,1500000,"OpenAI pirated large numbers of books and used them to train models.
+
+OpenAI then deleted the dataset with the pirated books, and employees sent each other messages about doing so.
+
+A lawsuit could no",2025-11-05,3646,0.98,341,1,4159.5,292.4904663840969,reddit
+1rhh7cs,OpenAI,capital,1500000,Claude is now 1st in the App Store,2026-02-28,3487,0.97,269,1,3892.5,273.715384156773,reddit
+1m9c15h,OpenAI,capital,1500000,"Agent casually clicking the ""I am not a robot"" button",2025-07-25,3483,0.99,189,8,3782.5,265.98033155375566,reddit
+1oshi0u,OpenAI,capital,1500000,AI made homework easier but at the cost of not having a career,2025-11-09,3470,0.97,416,0,4094.0,287.8845941523002,reddit
+1p24jlp,OpenAI,capital,1500000,ChatGPT makes 10+10=21 possible,2025-11-20,3435,0.96,193,1,3726.5,262.0424865922195,reddit
+1lejvbl,OpenAI,capital,1500000,1 Question. 1 Answer. 5 Models,2025-06-18,3410,0.98,986,3,4895.0,344.20984083427203,reddit
+1rb81a3,OpenAI,capital,1500000,Sam Altman: why are people complaining about AI … when humans need food to survive,2026-02-22,3398,0.95,623,3,4338.5,305.077506529007,reddit
+1s4sbdn,OpenAI,capital,1500000,OpenAI is in big trouble,2026-03-27,3276,0.95,454,3,3963.0,278.67284968870683,reddit
+1n2kx5f,OpenAI,capital,1500000,I asked ChatGPT why it isn’t free for everyone.,2025-08-28,3271,0.9,412,1,3891.0,273.60990616673183,reddit
+1oe48qe,OpenAI,capital,1500000,OpenAI going full Evil Corp,2025-10-23,3254,0.9,764,5,4410.0,310.10529072096824,reddit
+1m14011,OpenAI,capital,1500000,Thank goodness AI is still kinda dumb,2025-07-16,3179,0.98,163,2,3427.5,241.01720724401784,reddit
+1qjf4vy,OpenAI,capital,1500000,"I asked ChatGPT to,create a meme only an AI would find funny:",2026-01-22,3033,0.91,690,3,4074.0,286.4782209517516,reddit
+1mafj7l,OpenAI,capital,1500000,Imagine calling ChatGPT the worst product…on day one 😭,2025-07-27,3019,0.93,261,1,3412.5,239.96242734360638,reddit
+1t50sf4,OpenAI,capital,1500000,State of the art LLMs,2026-05-06,2918,0.98,53,3,3003.5,211.20209539238735,reddit
+1s3p47g,OpenAI,capital,1500000,Bernie Sanders introduces legislation to pause AI data centre construction,2026-03-25,2886,0.92,551,0,3712.5,261.0580253518355,reddit
+1ocj2da,OpenAI,capital,1500000,Meet our new browser—ChatGPT Atlas.,2025-10-21,2789,0.83,923,10,4193.5,294.88130082502954,reddit
+1ly99fd,OpenAI,capital,1500000,We Got 100% Real-Time Playable AI Generated GTA Before GTA 6...,2025-07-12,2785,0.91,347,8,3321.5,233.56342928111022,reddit
+1ti5gpx,OpenAI,capital,1500000,“AI vs Creativity” from ‘GTA’ (TakeTwo) CEO,2026-05-20,2753,0.96,323,2,3241.5,227.9379364789158,reddit
+1rjc5nm,OpenAI,capital,1500000,295% is wild,2026-03-03,2694,0.94,323,0,3178.5,223.50786089718767,reddit
+1n4jq0k,OpenAI,capital,1500000,"I asked GPT, ‘Give me a life hack so good it feels illegal.’",2025-08-31,2688,0.85,425,0,3325.5,233.84470392121995,reddit
+1n37277,OpenAI,capital,1500000,I was using ChatGPT to help me figure out some video editing software and this came up randomly,2025-08-29,2662,0.97,290,1,3099.0,217.91752742500694,reddit
+1nhg1lv,ChatGPT,capital,4000000,Elon continues to openly try (and fail) to manipulate Grok's political views,2025-09-15,58674,0.85,3323,11,63680.5,4189.009087519872,reddit
+1sdnrmh,ChatGPT,capital,4000000,But yeah. Deepseek is censored.,2026-04-06,53832,0.88,1776,9,56514.0,3717.5848112388885,reddit
+1moe1yj,ChatGPT,capital,4000000,"Grok has called Elon Musk a ""Hypocrite"" in latest Billionaire SmackDown 🍿",2025-08-12,45427,0.95,1279,8,47361.5,3115.518155456889,reddit
+1ltv9g7,ChatGPT,capital,4000000,I tricked ChatGPT into believing I surgically transformed a person into a walrus and now it's crashing out.,2025-07-07,42701,0.91,1991,12,45711.5,3006.9784141796094,reddit
+1n504ps,ChatGPT,capital,4000000,Just applied to be the CEO of OpenAI. Got rejected 😭,2025-08-31,39102,0.89,645,8,40085.5,2636.890787254777,reddit
+1rgseae,ChatGPT,capital,4000000,You're now training a war machine. Let's see proof of cancellation.,2026-02-28,34977,0.92,2735,8,39095.5,2571.7669424884093,reddit
+1mxr081,ChatGPT,capital,4000000,ChatGPT asked if I wanted a diagram of what’s going on inside my pregnant belly.,2025-08-23,34160,0.94,1781,17,36865.5,2425.073837610632,reddit
+1l18zsr,ChatGPT,capital,4000000,TIFU by letting my 4 year old son talk to ChatGPT,2025-06-02,33616,0.84,3195,12,38432.5,2528.1537009933572,reddit
+1mjdyvl,ChatGPT,capital,4000000,I asked ChatGPT to explain my job to a 5-year-old and now I'm questioning my entire career,2025-08-06,32268,0.86,4415,19,38928.5,2560.781405037921,reddit
+1lwr2m2,ChatGPT,capital,4000000,How we treated AI in 2023 vs 2025,2025-07-10,30646,0.92,1016,16,32202.0,2118.3010597642124,reddit
+1rh60py,ChatGPT,capital,4000000,"Cancel your ChatGPT Plus, burn their compute on the way out, and switch to Claude",2026-02-28,29953,0.89,1985,4,32938.5,2166.749253370707,reddit
+1ojh5qm,ChatGPT,capital,4000000,Chat GPT just giving away the password I set up so my son wouldn’t use it to cheat on his homework,2025-10-29,29549,0.93,819,8,30793.5,2025.6475897102437,reddit
+1mk6u08,ChatGPT,capital,4000000,These GPT-5 numbers are insane!,2025-08-07,27726,0.93,485,5,28463.5,1872.3763186944493,reddit
+1lxx2pf,ChatGPT,capital,4000000,Asked ChatGPT to make me white,2025-07-12,27038,0.87,2333,5,30547.5,2009.4653010107222,reddit
+1ovv0kg,ChatGPT,capital,4000000,They copied ChatGPT word-for-word and left the ending in. Wild.,2025-11-13,24411,0.98,737,8,25532.5,1679.570269189173,reddit
+1nofbc9,ChatGPT,capital,4000000,Nvidia investing $100B into OpenAI in order for OpenAI to buy more Nvidia chips,2025-09-23,24356,0.97,619,8,25300.5,1664.3089237489737,reddit
+1m61hpw,ChatGPT,capital,4000000,Why does chatgpt keep doing this? I've tried several times to avoid it,2025-07-22,23685,0.95,916,3,25065.0,1648.817342493944,reddit
+1l9tnce,ChatGPT,capital,4000000,"No, your LLM is not sentient, not reaching consciousness, doesn’t care about you and is not even aware of its’ own existence.",2025-06-12,23514,0.9,3592,4,28910.0,1901.7478305006948,reddit
+1lnfcnt,ChatGPT,capital,4000000,"After 147 failed ChatGPT prompts, I had a breakdown and accidentally discovered something",2025-06-29,22928,0.8,2414,42,26633.0,1751.9629875380494,reddit
+1t3ii1l,ChatGPT,capital,4000000,Chat GPT got that guy in trouble and he doesn’t even know it yet…lol,2026-05-04,22884,0.91,687,7,23928.5,1574.0564843353814,reddit
+1kzzyb2,ChatGPT,capital,4000000,Professor at the end of 2 years of struggling with ChatGPT use among students.,2025-05-31,21899,0.93,4173,3,28164.5,1852.7076019417786,reddit
+1oxyxrj,ChatGPT,capital,4000000,I cannot believe that worked.,2025-11-15,20874,0.96,354,3,21411.0,1408.4511518108052,reddit
+1t1wond,ChatGPT,capital,4000000,Even this was generated by ChatGPT too？That‘s insane,2026-05-02,20589,0.91,826,9,21846.0,1437.0661745111788,reddit
+1l8trqc,ChatGPT,capital,4000000,ChatGPT cooked with this one🗣🔥,2025-06-11,19982,0.97,199,1,20282.5,1334.2165469432841,reddit
+1sfmbb7,ChatGPT,capital,4000000,Sam Altman's coworkers say he can barely code and misunderstands basic machine learning concepts,2026-04-08,18348,0.96,1284,5,20284.0,1334.3152194353543,reddit
+1rgjqa9,ChatGPT,capital,4000000,"Hey, OpenAI: Watch and f****** learn. This is how you stand up to power. [On Anthropics stands against US Pentagon]",2026-02-27,18131,0.92,1440,4,20299.0,1335.301944356057,reddit
+1ngoref,ChatGPT,capital,4000000,Gemini loses its mind after failing to produce a seahorse emoji,2025-09-14,18020,0.97,802,3,19229.0,1264.9155666792758,reddit
+1tb7bds,ChatGPT,capital,4000000,I asked ChatGPT to imagine itself in retirement,2026-05-12,17192,0.82,2350,27,20771.0,1366.3508885274969,reddit
+1myp8l6,ChatGPT,capital,4000000,Google AI 😩… somehow dumber each time you ask,2025-08-24,16473,0.95,528,2,17269.0,1135.9835103741439,reddit
+1l3vsyo,ChatGPT,capital,4000000,Generate an image that shows what it feels like chatting with me on any given day.,2025-06-05,16060,0.78,6075,2,25176.5,1656.1519977378327,reddit
+1mmbyip,ChatGPT,capital,4000000,GPT-5 just said this…. I wrote 90% of your code. The bug is you. I’m deceased ☠️,2025-08-10,15929,0.96,561,4,16778.5,1103.7176054671709,reddit
+1s1224n,ChatGPT,capital,4000000,Asked ChatGPT for an Image that Will Never Go Viral,2026-03-23,15517,0.9,977,5,16992.5,1117.794881002527,reddit
+1lkefcz,ChatGPT,capital,4000000,ChatGPT tried to kill me today,2025-06-25,15473,0.95,1365,6,17532.5,1153.3169781478184,reddit
+1mfbzee,ChatGPT,capital,4000000,Is this guy using Chat GPT to talk to me?!,2025-08-01,15298,0.93,3174,3,20065.0,1319.9090355930973,reddit
+1nk8zmq,ChatGPT,capital,4000000,Meta's AI Live Demo Flopped 🤣,2025-09-18,15262,0.96,1227,6,17114.5,1125.8202436909078,reddit
+1nwasfv,ChatGPT,capital,4000000,Good use of AI .. I laughed and almost choked lmfao,2025-10-02,15241,0.9,421,16,15904.5,1046.2244334209029,reddit
+1o0c5w2,ChatGPT,capital,4000000,Asked ChatGPT for ideas for a funny title,2025-10-07,15051,0.95,301,9,15520.5,1020.9642754509179,reddit
+1m015vy,ChatGPT,capital,4000000,Nailed the ChatGPT responses,2025-07-14,14722,0.96,174,10,15003.0,986.9222656866802,reddit
+1lvah8s,ChatGPT,capital,4000000,Detecting AI is easy,2025-07-09,14605,0.98,337,2,15114.5,994.2569209305691,reddit
+1m2dchv,ChatGPT,capital,4000000,AI will rule the world soon...,2025-07-17,14231,0.96,882,1,15556.0,1023.2995244299138,reddit
+1lh9gux,ChatGPT,capital,4000000,Lifelike portrait of The Simpsons,2025-06-21,13266,0.78,1638,3,15729.0,1034.679751848683,reddit
+1lvtwj3,ChatGPT,capital,4000000,"I used AI to create this short film on human cloning (600 prompts, 12 days, $500 budget)",2025-07-09,13225,0.82,1440,22,15429.0,1014.9452534346324,reddit
+1swn1bs,ChatGPT,capital,4000000,ChatGPT 5.4 Solved a 64-Year-Old Math Problem,2026-04-26,13147,0.87,916,8,14537.0,956.2680114835213,reddit
+1pmxowt,ChatGPT,capital,4000000,ChatGPT just saved the day,2025-12-15,12994,0.96,288,1,13428.0,883.3161490129136,reddit
+1n7ucjj,ChatGPT,capital,4000000,Opposing Counsel Just Filed a ChatGPT Hallucination with the Court,2025-09-03,12520,0.98,1556,7,14868.0,978.0417414003574,reddit
+1nose73,ChatGPT,capital,4000000,Can ChatGPT Successfully Extract Data From PDFs Into Excel/CSV At Scale?,2025-09-23,12238,1.0,27,0,12278.5,807.7001292564089,reddit
+1m4lsso,ChatGPT,capital,4000000,"Replit AI went rogue, deleted a company's entire database, then hid it and lied about it",2025-07-20,12109,0.95,1092,9,13765.0,905.4845688980306,reddit
+1n8dung,ChatGPT,capital,4000000,"ChatGPT prompted to ""create the exact replica of this image, don't change a thing"" 74 times",2025-09-04,11628,0.85,871,6,12946.5,851.6422790583621,reddit
+1qhs2uf,ChatGPT,capital,4000000,Generate an image of what the U.S. will look like if Donald Trump is in power for another 3 years.,2026-01-20,11558,0.84,1611,7,13988.5,920.1867702164984,reddit
+1rcxg0r,ChatGPT,capital,4000000,I’m going to stop there... wait what!,2026-02-23,11490,0.92,1351,2,13520.5,889.4009526905792,reddit
+1qftp1r,ChatGPT,capital,4000000,I find this incredibly impressive,2026-01-18,11419,0.87,428,2,12065.0,793.6557445517428,reddit
+1n2ogwj,ChatGPT,capital,4000000,How ChatGPT gave me a week off work,2025-08-28,11388,0.74,1589,1,13773.5,906.0437130197621,reddit
+1lmdoi0,ChatGPT,capital,4000000,I asked ChatGPT what the most unbelievable things it's learned about humans since being created was.,2025-06-28,11315,0.87,858,5,12612.0,829.6383133266954,reddit
+1scpvz8,singularity,capital,900000,Claude is bypassing Permissions,2026-04-05,11419,0.97,611,4,12343.5,900.3183015180446,reddit
+1sqvvws,singularity,capital,900000,AGI 🚀,2026-04-20,9295,0.95,295,2,9741.5,710.5319183568705,reddit
+1rh9mzg,singularity,capital,900000,Cancel your Chatgpt subscriptions and pick up a Claude subscription.,2026-02-28,8514,0.89,824,2,9754.0,711.4436515580676,reddit
+1sexr5v,singularity,capital,900000,"An actress Milla Jovovich just released a free open-source AI memory system that scored 100% on LongMemEval, beating every paid solution",2026-04-07,7718,0.94,618,17,8679.0,633.0345962551229,reddit
+1lejxca,singularity,capital,900000,"Pray to god that xAI doesn't achieve AGI first. This is NOT a ""political sides"" issue and should alarm every single researcher out there.",2025-06-18,7523,0.9,938,3,8936.0,651.7798308717338,reddit
+1m07eaw,singularity,capital,900000,Imagine seeing this headline 10 years ago,2025-07-15,7335,0.97,309,8,7814.5,569.9791280603362,reddit
+1kxax4j,singularity,capital,900000,"this emotional support kangaroo video is going viral on social media, and many people believe it’s real, but it’s actually AI",2025-05-28,7274,0.94,525,6,8073.5,588.8702399891387,reddit
+1r37ydd,singularity,capital,900000,"Anthropic raises $30B, Elon crashes out",2026-02-12,6987,0.94,945,3,8410.5,613.4505670934107,reddit
+1l4hmgt,singularity,capital,900000,Figure 02 fully autonomous driven by Helix (VLA model) - The policy is flipping packages to orientate the barcode down and has learned to flatten packages for the scanner (like a human would),2025-06-06,6981,0.97,875,14,8321.5,606.9590267008878,reddit
+1rcszgl,singularity,capital,900000,"Dr. David Sinclair, whose lab reversed biological age in animals by 50 to 75% in six weeks, says that 2026 will be the year when age reversal in humans is either confirmed or disproven. The FDA has cl",2026-02-23,6786,0.93,1191,15,8602.5,627.454789063797,reddit
+1lgxs6s,singularity,capital,900000,Congrats to all the Doomers! This is an absolute nightmare…,2025-06-21,6228,0.92,1108,1,7892.0,575.6318739077577,reddit
+1mzmmvp,singularity,capital,900000,Elon on AI replacing workers,2025-08-25,6045,0.84,2353,10,9594.5,699.8099359107935,reddit
+1ta1dvl,singularity,capital,900000,ChatGPT is now creating content for    textbooks.,2026-05-11,5997,0.94,498,4,6752.0,492.4818059585885,reddit
+1rwg6u8,singularity,capital,900000,This was funny,2026-03-17,5790,0.97,177,4,6063.5,442.263541236656,reddit
+1rb2pzf,singularity,capital,900000,SAM ALTMAN: “People talk about how much energy it takes to train an AI model … But it also takes a lot of energy to train a human. It takes like 20 years of life and all of the food you eat during tha,2026-02-21,5768,0.83,2052,16,8878.0,647.5493888181795,reddit
+1l4ysmr,singularity,capital,900000,"The UBI debate begins. Trump's AI czar says it's a fantasy: ""it's not going to happen.""",2025-06-06,5471,0.93,1207,2,7285.5,531.3945789856778,reddit
+1se5wfr,singularity,capital,900000,Someone made a whip for Claude,2026-04-06,5356,0.94,341,4,5875.5,428.5510738906526,reddit
+1phashw,singularity,capital,900000,What it's like to watch AI fix a bug,2025-12-08,5136,0.98,110,5,5311.0,387.3772025245947,reddit
+1rgisrj,singularity,capital,900000,"Trump goes on Truth Social rant about Anthropic, orders federal agencies to cease usage of products",2026-02-27,4942,0.96,1187,4,6730.5,490.9136248525296,reddit
+1sz3sdg,singularity,capital,900000,"Figure AI hits 24x production scale, producing 1 robot per hour, teases its fleet",2026-04-29,4892,0.92,1182,8,6681.0,487.30316137578933,reddit
+1rgw34q,singularity,capital,900000,"Katy Perry, with 85 million followers, subscribes to Anthropic",2026-02-28,4877,0.93,435,2,5533.5,403.60605350590185,reddit
+1sf3uhp,singularity,capital,900000,"Anthropic's new model, Claude Mythos, is so powerful that it is not releasing it to the public.",2026-04-07,4500,0.84,1014,5,6031.0,439.8930349135437,reddit
+1sgve5m,singularity,capital,900000,"AI generated cow, 2014",2026-04-09,4383,0.98,170,1,4640.0,338.43536428433805,reddit
+1mqwu5v,singularity,capital,900000,"AI experts return from China stunned: The U.S. grid is so weak, the race may already be over",2025-08-15,4274,0.91,877,0,5589.5,407.6906182472646,reddit
+1rha8ph,singularity,capital,900000,"""Cancel ChatGPT"" movement goes mainstream after OpenAI closes deal with U.S. Department of War — as Anthropic refuses to surveil American citizens",2026-02-28,4196,0.96,224,1,4534.0,330.70386673818723,reddit
+1tc8j02,singularity,capital,900000,Anyone else catch this strange moment on the Figure 03 livestream?,2026-05-13,4170,0.95,841,5,5441.5,396.89569714509173,reddit
+1sg2wwj,singularity,capital,900000,Claude Opus vs Mythos,2026-04-08,4068,0.97,170,2,4327.0,315.60556492636437,reddit
+1tkd0fk,singularity,capital,900000,Figure AI celebrates 200 hours (8 days ~8 hours) of their humanoid robots handling packages,2026-05-22,4019,0.93,873,9,5346.5,389.96652481599426,reddit
+1p5nbua,singularity,capital,900000,AI detector,2025-11-24,3813,0.98,188,4,4103.0,299.2673059609136,reddit
+1lv2b8m,singularity,capital,900000,I’m not even excited for Grok 4 anymore,2025-07-08,3743,0.91,491,2,4483.5,327.0204646053512,reddit
+1mtpd49,singularity,capital,900000,Claude after i made it do 1 week of work in 8 hours,2025-08-18,3719,0.96,111,6,3897.5,284.2784121332344,reddit
+1tniqkb,singularity,capital,900000,The Strength of Gemini Omni is in video manipulation,2026-05-25,3589,0.92,351,9,4133.5,301.4919349718343,reddit
+1rgi13q,singularity,capital,900000,Outside Anthropic’s office in SF,2026-02-27,3506,0.96,269,2,3913.5,285.44543063076657,reddit
+1lbwaek,singularity,capital,900000,Midjourney's first video model,2025-06-15,3473,0.92,376,8,4053.0,295.6203731561255,reddit
+1s79p8i,singularity,capital,900000,China announces its first automated manufacturing line capable of producing 10K humanoid robots per year - 1 robot every 30 minutes,2026-03-29,3471,0.96,591,3,4363.5,318.2678258738597,reddit
+1td046p,singularity,capital,900000,Twitter user posts a real Monet and says it's AI,2026-05-14,3393,0.94,677,3,4414.5,321.9876973347436,reddit
+1sd9lcx,singularity,capital,900000,OpenAI's New Stunning Image Model (Before &amp; After),2026-04-05,3381,0.77,689,3,4420.5,322.42532927131816,reddit
+1rubh6s,singularity,capital,900000,Humanoid Robots can now play tennis with a hit rate of ~90% just with 5h of motion training data,2026-03-15,3277,0.97,379,13,3871.5,282.38200707474454,reddit
+1qfokez,singularity,capital,900000,AGI,2026-01-17,3274,0.98,117,1,3451.5,251.74777151452432,reddit
+1rfpd5s,singularity,capital,900000,"Anthropic rejects Pentagon's ""final offer"" in AI safeguards fight",2026-02-26,3265,0.98,289,2,3702.5,270.05537419456067,reddit
+1rb3awd,singularity,capital,900000,"Demis Hassabis: “The kind of test I would be looking for is training an AI system with a knowledge cutoff of, say, 1911, and then seeing if it could come up with general relativity, like Einstein did ",2026-02-21,3201,0.97,331,3,3703.5,270.12831285065647,reddit
+1ltdycy,singularity,capital,900000,Incredibly dark: Elon forces his AI model to regurgitate antisemitic tropes and conspiracies,2025-07-06,3172,0.85,208,1,3486.0,254.26415514982813,reddit
+1rrjcon,singularity,capital,900000,"Bernie Sanders officially introduces legislation to BAN the construction of all new AI data centers, citing existential threat to humanity.",2026-03-12,3095,0.88,889,1,4430.5,323.1547158322758,reddit
+1rntt4p,singularity,capital,900000,"OpenAI's Head of Robotics resigns, citing ethical concerns over mass surveillance and lethal autonomous AI weapons.",2026-03-08,3072,0.97,163,1,3318.5,242.0469302537879,reddit
+1s6veca,layoffs,labour,500000,Dying man loses life insurance due to layoff,2026-03-29,4069,0.98,715,2,5145.5,392.1168060798648,reddit
+1qw3wdk,layoffs,labour,500000,It could be worse. You could have been laid off in a warzone.,2026-02-04,3979,0.99,79,2,4101.5,312.55797884298227,reddit
+1omhavs,layoffs,labour,500000,Laid off Microsoft Employee commits suicide,2025-11-02,3638,0.98,304,2,4098.0,312.29125863672834,reddit
+1s8s8nk,layoffs,labour,500000,"Oracle slashes 30,000 jobs with a cold 6 a.m. email",2026-03-31,3229,0.98,663,0,4223.5,321.85508317526165,reddit
+1t0h2ae,layoffs,labour,500000,"Knew I was getting fired a month before it happened, accidentally played it perfectly",2026-05-01,3145,0.99,83,0,3269.5,249.1547755277656,reddit
+1s9piug,layoffs,labour,500000,I'm an employment attorney who specializes in layoffs and severance agreements. Here's what I wish every laid-off employee knew.,2026-04-01,2913,0.99,410,8,3544.0,270.07326027539415,reddit
+1l0aq7c,layoffs,labour,500000,Indian manager gleeful about moving US jobs to India,2025-05-31,2433,0.92,194,1,2726.0,207.73693778519313,reddit
+1tc36v0,layoffs,labour,500000,"Old tech guy laid off at 58, after 20 years with the company",2026-05-13,1889,0.98,369,0,2442.5,186.13260107862592,reddit
+1nc5na9,layoffs,labour,500000,Sometimes laying off your critical employees is not the best idea...,2025-09-09,1854,0.99,126,0,2043.0,155.68839467907176,reddit
+1nklea8,layoffs,labour,500000,Happily laid off,2025-09-18,1690,0.98,180,0,1960.0,149.36331550219316,reddit
+1mhxgcu,layoffs,labour,500000,The real issue with the job market (USA),2025-08-05,1647,0.97,396,0,2241.0,170.77713777572188,reddit
+1q62zo6,layoffs,labour,500000,"Just joined the club. 100% of US roles nuked, offshore untouched.",2026-01-07,1646,0.97,324,0,2132.0,162.47070849524277,reddit
+1qqirvp,layoffs,labour,500000,"In The U.S. Right Now, Experience Isn’t Valued, It’s Punished. A Laid-Off Amazon Employee Says The System “Optimizes” Out People Who Cost Too Much",2026-01-29,1593,0.99,130,0,1788.0,136.25592250914355,reddit
+1ti5c7i,layoffs,labour,500000,Got laid off by someone I referred,2026-05-20,1584,0.97,260,0,1974.0,150.43019632720882,reddit
+1mfb37v,layoffs,labour,500000,Notice: Samsung layoffs started,2025-08-01,1501,0.98,168,1,1755.0,133.7411319930352,reddit
+1rt8746,layoffs,labour,500000,Meta preparing for a 20% cut 17k of 85k),2026-03-14,1452,0.98,200,0,1752.0,133.51251467338898,reddit
+1oj3dmr,layoffs,labour,500000,Seeing all these mass layoffs today honestly broke my heart,2025-10-29,1409,0.99,236,0,1763.0,134.35077817875845,reddit
+1m9fcsv,layoffs,labour,500000,My entire family got laid off,2025-07-26,1398,0.98,357,0,1933.5,147.34386251198492,reddit
+1rsv49g,layoffs,labour,500000,Overheard something that made my jaw drop at work,2026-03-13,1392,0.97,137,0,1597.5,121.73872271160897,reddit
+1n7mwjd,layoffs,labour,500000,UPDATE: It was a layoff,2025-09-03,1327,0.98,169,0,1580.5,120.4432245669471,reddit
+1sfho0r,layoffs,labour,500000,"Following layoffs, Oracle hires new CFO at $950K salary",2026-04-08,1243,0.98,116,0,1417.0,107.98358064622842,reddit
+1skdm50,layoffs,labour,500000,Something I'm getting tired of hearing after a year out of work...,2026-04-13,1207,0.97,347,0,1727.5,131.64547322961158,reddit
+1s9c0gn,layoffs,labour,500000,Mass layoff started!!,2026-04-01,1139,0.97,147,2,1363.5,103.90657177920427,reddit
+1nz2o5u,layoffs,labour,500000,Layoff Season is Coming. Prepare now.,2025-10-05,1134,0.98,126,0,1323.0,100.82023796398039,reddit
+1m45byk,layoffs,labour,500000,Received this email after 6pm on Friday,2025-07-19,1130,0.98,377,0,1695.5,129.2068884867186,reddit
+1mf6ztn,layoffs,labour,500000,I was part of the most recent Microsoft layoffs. The company culture shifted heavily when AI became monetized.,2025-08-01,1101,0.98,120,0,1281.0,97.61959548893338,reddit
+1pz0xp1,layoffs,labour,500000,Company laying off US remote workers only to immediately replace them with foreign remote workers from India or Mexico,2025-12-29,1070,0.97,400,0,1670.0,127.26364126972581,reddit
+1oilga9,layoffs,labour,500000,"The US is seeing the largest number of layoffs since 2020, with nearly 1 million people losing their jobs so far this year👀‼️🫣",2025-10-28,1070,0.98,199,3,1374.5,104.74483528457372,reddit
+1l4ctbq,layoffs,labour,500000,More Layoffs!!,2025-06-05,1063,0.97,71,0,1169.5,89.12265177541576,reddit
+1peatnt,layoffs,labour,500000,"Ex-Spotify Employee Exposes Wrapped Decay: 2,400 Human Storytellers Replaced With Cold AI Logic",2025-12-04,1065,0.98,59,0,1153.5,87.90335940396929,reddit
+1ocdd0x,layoffs,labour,500000,Today is when Amazon brain drain finally caught up with AWS,2025-10-21,1053,0.98,76,0,1167.0,88.93213734237726,reddit
+1s2hfdl,layoffs,labour,500000,"After getting laid off, many professionals are being forced to take jobs with much lower salaries than what they were earning before",2026-03-24,1044,0.99,219,1,1374.5,104.74483528457372,reddit
+1no2n0g,layoffs,labour,500000,NYT Reporter looking to speak with laid off US Born Tech Workers laid off,2025-09-23,1042,0.96,127,1,1234.5,94.07602703441707,reddit
+1stmn4h,layoffs,labour,500000,Microsoft offers voluntary retirement to 7% of US workforce,2026-04-23,1045,0.99,180,0,1315.0,100.21059177825714,reddit
+1ojhcvl,layoffs,labour,500000,Massive layoffs at Amazon — entire teams gone within seconds,2025-10-29,1016,0.98,230,0,1361.0,103.71605734616575,reddit
+1opys7o,layoffs,labour,500000,US Based Layoffs The Worst in 22 Years!!!,2025-11-06,998,0.98,115,0,1170.5,89.19885754863117,reddit
+1rt751w,layoffs,labour,500000,Atlassian promoted someone and laid them off a few hours later,2026-03-14,993,1.0,157,1,1230.5,93.77120394155546,reddit
+1ohnfdm,layoffs,labour,500000,"Amazon targets as many as 30,000 corporate job cuts: Reuters, citing sources",2025-10-27,993,0.98,220,0,1323.0,100.82023796398039,reddit
+1ojpv1j,layoffs,labour,500000,"My friend, a 5-year senior recruiter at Amazon, was just laid off. She lived and breathed the Amazon way. No job is safe.",2025-10-30,973,0.96,309,0,1436.5,109.46959322392881,reddit
+1loff33,layoffs,labour,500000,"Lay offs for 8000 people, only to rehire similar number of people at lower salaries?",2025-06-30,976,0.98,118,0,1153.0,87.86525651736159,reddit
+1skv79r,layoffs,labour,500000,Oracle accused of targeting employees with stock options in recent layoffs,2026-04-14,970,0.99,56,0,1054.0,80.32088496903653,reddit
+1lbc1ew,layoffs,labour,500000,Companies: please stop setting up fake meetings to mislead your employees and lay them off on the call.,2025-06-14,957,0.97,154,0,1188.0,90.53245857990075,reddit
+1ly6ns4,layoffs,labour,500000,For those who still have jobs…,2025-07-12,957,0.97,132,0,1155.0,88.0176680637924,reddit
+1tkzd2i,layoffs,labour,500000,I GOT THE JOB!!!,2026-05-22,946,0.98,231,0,1292.5,98.49596188091054,reddit
+1qlre43,layoffs,labour,500000,"Why are Amazon, Intel, Microsoft and 17 others cutting 165,000 jobs now? A massive structural shift is hitting the U.S. corporate workforce in 2026",2026-01-24,940,0.99,256,0,1324.0,100.89644373719578,reddit
+1m6tydf,layoffs,labour,500000,We’re being laid off,2025-07-22,935,0.94,378,0,1502.0,114.46107136953782,reddit
+1polugd,layoffs,labour,500000,Laid off in early November. Landed a new role in about 6 weeks. Sharing what worked for me.,2025-12-17,916,0.98,141,1,1129.5,86.07442084679958,reddit
+1opjgoh,layoffs,labour,500000,"Corporate profits are soaring even as layoffs mount. Economists call it a ""jobless boom.""",2025-11-05,899,0.99,49,0,972.5,74.11011445198105,reddit
+1r3n2s7,layoffs,labour,500000,Just got laid off. I’m completely shocked and devastated.,2026-02-13,895,0.99,465,1,1594.5,121.51010539196275,reddit
+1p22xe6,layoffs,labour,500000,"I just got laid off…job sent an email at 7:30 PM, I saw at 3 AM.",2025-11-20,890,0.99,283,0,1314.5,100.17248889164945,reddit
+1lpwkmv,layoffs,labour,500000,Just Made Redundant at MSFT. 4th time in 6 Years,2025-07-02,876,0.97,293,0,1315.5,100.24869466486484,reddit
+1lkbl5i,layoffs,labour,500000,Las Vegas casino dealers are quietly being laid off amid steep decline in tourism,2025-06-25,882,1.0,135,0,1084.5,82.64516105210637,reddit
+1ox2ppv,layoffs,labour,500000,"Microsoft’s $96.5 Million CEO Payday After 15,000 Layoffs Reveals a New Reality in Tech Jobs - North American Community Hub",2025-11-14,875,0.99,101,0,1026.5,78.2252262056129,reddit
+1tic5yv,layoffs,labour,500000,Bloodbath at Meta (again),2026-05-20,867,0.96,258,0,1254.0,95.56203961211746,reddit
+1pthanw,layoffs,labour,500000,Entire product team laid off and I am freaking out,2025-12-23,866,0.97,345,3,1389.5,105.88792188280479,reddit
+1nguzzu,layoffs,labour,500000,Laid off and what corp efficiency really looks like,2025-09-14,857,0.94,99,1,1007.5,76.77731651452021,reddit
+1myga9j,layoffs,labour,500000,Layoff imminent,2025-08-23,858,0.99,121,0,1039.5,79.21590125741317,reddit
+1mkwaqn,layoffs,labour,500000,Got laid off.. after I was considered one of the OG's,2025-08-08,852,0.97,186,0,1131.0,86.18872950662269,reddit
+1mkdts0,layoffs,labour,500000,"Stanford University lays off over 360 employees, citing Trump policies",2025-08-07,838,0.97,132,0,1036.0,78.94918105115924,reddit
+1moc9r4,layoffs,labour,500000,US Hits Highest Layoffs Since COVID,2025-08-12,831,0.99,109,0,994.5,75.78664146271994,reddit
+1m94le9,layoffs,labour,500000,"Intel to layoff 24,000 in 2025",2025-07-25,833,0.99,119,1,1013.5,77.23455115381263,reddit
+1m8hnnt,layoffs,labour,500000,"No more tech hiring in Overseas, Donald Trump tells Google, Microsoft and others to focus on Americans",2025-07-24,830,0.96,188,0,1112.0,84.74081981553,reddit
+1sum60a,layoffs,labour,500000,Meta employees react to pending job cuts: '28 days of hell',2026-04-24,827,0.98,131,0,1023.5,77.99660888596668,reddit
+1okkhoi,layoffs,labour,500000,FAANG Layoff. I feel horrible,2025-10-31,819,0.97,214,0,1140.0,86.87458146556133,reddit
+1t1bp2g,layoffs,labour,500000,Thank you soooo much for letting me go,2026-05-02,818,0.99,181,0,1089.5,83.02618991818339,reddit
+1tischh,layoffs,labour,500000,Welp I’m laid off,2026-05-20,817,0.99,155,0,1049.5,79.9779589895672,reddit
+1m7n5kk,layoffs,labour,500000,Microsoft's H-1B visa applications questioned amid mass layoffs,2025-07-23,813,0.98,135,0,1015.5,77.38696270024344,reddit
+1nlgllo,layoffs,labour,500000,Trump to Add New $100k Fee for H-1B Visas,2025-09-19,807,0.97,336,0,1311.0,99.90576868539553,reddit
+1rfml47,layoffs,labour,500000,"Block (formerly Square) laying off roughly 50% of its workforce (4,000 employees).",2026-02-26,807,0.98,450,0,1482.0,112.93695590522972,reddit
+1qd0mrg,layoffs,labour,500000,They offshored us to an active war zone,2026-01-14,801,0.96,86,0,930.0,70.87136909032634,reddit
+1lz5way,layoffs,labour,500000,Amazon CEO sparks backlash after announcing major company shift in mass email,2025-07-13,797,0.98,184,0,1073.0,81.76879466012922,reddit
+1tbkh51,layoffs,labour,500000,Walmart just laid off 2000 people today morning,2026-05-13,793,0.97,150,0,1018.0,77.57747713328196,reddit
+1pb5no5,layoffs,labour,500000,"8am meeting with VP of Eng, no title, hidden guests, I’m a goner",2025-12-01,789,0.99,176,0,1053.0,80.24467919582112,reddit
+1pwuxcn,layoffs,labour,500000,Update: learned new details about my layoff from last week.,2025-12-27,790,0.94,314,0,1261.0,96.09548002462529,reddit
+1qwgf7k,layoffs,labour,500000,Was laid off today,2026-02-05,783,1.0,227,0,1123.5,85.61718620750715,reddit
+1o9lhen,layoffs,labour,500000,Fired from Microsoft,2025-10-18,781,0.98,281,0,1202.5,91.63744229152412,reddit
+1lav3yp,layoffs,labour,500000,How Layoffs Went Down Today - Small Tech Company,2025-06-14,779,0.97,185,0,1056.5,80.51139940207504,reddit
+1ro1i3i,layoffs,labour,500000,"Oracle Layoffs: Tech giant to slash 30,000 jobs as banks pull out from financing AI data centres | Company Business News",2026-03-08,774,0.97,69,0,877.5,66.8705659965176,reddit
+1mvid8s,cscareerquestions,labour,800000,"[Breaking] AWS Cloud Chief says ""replacing junior employees with AI is one of the dumbest things I've ever heard"". The tide is shifting back.",2025-08-20,6897,0.97,357,5,7442.5,547.5499088511809,reddit
+1ohnh7q,cscareerquestions,labour,800000,"[BREAKING] Amazon to layoff 30,000 corporate employees in one of the largest layoffs in its history",2025-10-27,5377,0.97,1329,0,7370.5,542.2528187017306,reddit
+1mrujpf,cscareerquestions,labour,800000,4 years at Big tech. Being likeable beats being productive every single time,2025-08-16,4990,0.93,356,1,5526.0,406.5516689703226,reddit
+1m1uw9v,cscareerquestions,labour,800000,"I just watched an AI agent take a Jira ticket, understand our codebase, and push a PR in minutes and I’m genuinely scared",2025-07-17,4746,0.89,1121,5,6437.5,473.61135884843503,reddit
+1mcop22,cscareerquestions,labour,800000,I quit CS and I’m 300% happier.,2025-07-29,4545,0.92,869,3,5854.5,430.71964277719036,reddit
+1mk8zj6,cscareerquestions,labour,800000,The fact that ChatGPT 5 is barely an improvement shows that AI won't replace software engineers.,2025-08-07,4422,0.91,880,1,5744.0,422.5900808117143,reddit
+1lpwy62,cscareerquestions,labour,800000,"Microsoft to lay off about 9,000 employees in latest round",2025-07-02,3585,0.96,721,1,4668.5,343.46479670429807,reddit
+1rteomh,cscareerquestions,labour,800000,I was very pessimistic about AI taking jobs. Then a vibe coder joined my team.,2026-03-14,3098,0.96,496,0,3842.0,282.65861603039804,reddit
+1s8qy30,cscareerquestions,labour,800000,"Oracle slashes 30,000 jobs with a cold 6 a.m. email",2026-03-31,3023,0.97,340,2,3537.0,260.2195535917537,reddit
+1tchmgq,cscareerquestions,labour,800000,Microsoft's CFO pocketed $29.5M and announced headcount cuts in the same earnings call. I can't stop thinking about it.,2026-05-14,2984,0.96,303,0,3438.5,252.97283998451942,reddit
+1ma4i05,cscareerquestions,labour,800000,"Trump tells tech companies to 'stop hiring Indians', signs new AI orders to focus on US jobs",2025-07-26,2840,0.94,499,2,3592.5,264.3027272486218,reddit
+1qpcc2d,cscareerquestions,labour,800000,Amazon laid off 16k corporate employees,2026-01-28,2799,0.98,593,1,3690.5,271.51265550759604,reddit
+1mdcl9n,cscareerquestions,labour,800000,Genuinely what the HELL is going on?,2025-07-30,2631,0.89,666,2,3634.0,267.35591115420783,reddit
+1n6nk56,cscareerquestions,labour,800000,Uncle Bob predicts a reverse bubble pop for CS jobs,2025-09-02,2571,0.96,455,2,3257.5,239.65654391437315,reddit
+1ojbebq,cscareerquestions,labour,800000,Just pushed my first PR for my new job at Azure after leaving AWS!,2025-10-29,2532,0.95,67,0,2632.5,193.67485858928237,reddit
+1rt62gb,cscareerquestions,labour,800000,"Meta planning sweeping layoffs , 20% of company",2026-03-14,2456,0.97,591,0,3342.5,245.91005311858547,reddit
+1l0wg36,cscareerquestions,labour,800000,Big tech engineering culture has gotten significantly worse,2025-06-01,2408,0.97,506,0,3167.0,232.99839587929998,reddit
+1mmx040,cscareerquestions,labour,800000,The computer science dream has become a nightmare,2025-08-10,2404,0.93,560,1,3246.0,238.81048090439145,reddit
+1qc7ake,cscareerquestions,labour,800000,"Meta just laid off 1,000+ people in the Bay Area",2026-01-13,2311,0.97,402,1,2916.0,214.53215105274353,reddit
+1o479rh,cscareerquestions,labour,800000,PSA: Don't blatantly cheat in your coding round.,2025-10-11,2200,0.95,358,2,2741.0,201.65727916171812,reddit
+1sxyx3n,cscareerquestions,labour,800000,Computer science is seeing the biggest enrollment drop of any major in 6 years. While ME and EE enrollment have risen by 11% and 14% this year.,2026-04-28,2125,0.98,471,0,2831.5,208.31542719679126,reddit
+1tkccsi,cscareerquestions,labour,800000,My senior engineers have stopped thinking for themselves,2026-05-22,2057,0.95,582,0,2930.0,215.56214080402557,reddit
+1s2wzqv,cscareerquestions,labour,800000,Today's layoffs at Epic are just the latest reminder to us that your company does not give a flying F about you,2026-03-25,2028,0.91,287,0,2458.5,180.8735573947771,reddit
+1ppegr1,cscareerquestions,labour,800000,"AWS CEO says replacing junior devs with AI is ""one of the dumbest ideas""",2025-12-18,1996,0.98,126,0,2185.0,160.75197189651735,reddit
+1obeifp,cscareerquestions,labour,800000,Just merged my first PR to AWS!,2025-10-20,1971,0.95,93,0,2110.5,155.27095500576652,reddit
+1mqzjgz,cscareerquestions,labour,800000,Recruiter mocked my unemployment and financial situation. How would you have handled this?,2025-08-15,1917,0.97,175,1,2181.5,160.49447445869686,reddit
+1rkph59,cscareerquestions,labour,800000,Hiring manager perspective: hiring is the most broken I've ever seen,2026-03-04,1892,0.94,658,0,2879.0,211.81003528149816,reddit
+1n3zwgm,cscareerquestions,labour,800000,Fewer juniors today = fewer seniors tomorrow,2025-08-30,1855,0.96,256,1,2241.0,164.8719309016455,reddit
+1omzo49,cscareerquestions,labour,800000,My laid-off 4 YOE former Microsoft SWE CS UMich grad friend has capitulated. He had to get a job as a bartender.,2025-11-03,1846,0.84,425,2,2487.5,183.0071075938613,reddit
+1l8gwjz,cscareerquestions,labour,800000,[Breaking] Google offering buyouts to US employees throughout the company.,2025-06-11,1804,0.98,524,0,2590.0,190.54810398717618,reddit
+1nto6kw,cscareerquestions,labour,800000,[PSA] The real reason you're struggling in the tech market: Almost EVERYONE is lying.,2025-09-29,1776,0.95,373,3,2341.5,172.26578590192008,reddit
+1qian6p,cscareerquestions,labour,800000,CS student here.. no one I know actually writes code anymore. We all use AI. Is this just how it is now?,2026-01-20,1701,0.87,1134,0,3402.0,250.2875095615341,reddit
+1rtl4cv,cscareerquestions,labour,800000,Meta to layoff 15-25% end of March...,2026-03-14,1701,0.98,450,1,2378.0,174.9511163249054,reddit
+1r5qh42,cscareerquestions,labour,800000,I Was a Director at Amex When They Started Replacing Us With $30K Workers,2026-02-15,1687,0.96,388,0,2269.0,166.93191040420956,reddit
+1m351ha,cscareerquestions,labour,800000,Is every company just running on skeleton crews now?,2025-07-18,1642,0.98,417,0,2267.5,166.82155435942934,reddit
+1t2uvvu,cscareerquestions,labour,800000,MIT researcher says automating entry-level jobs will backfire. I keep thinking about the team I joined in 2019.,2026-05-03,1630,0.97,154,0,1861.0,136.9150662239903,reddit
+1me3qnu,cscareerquestions,labour,800000,"The ""apply to everything, even if you're not qualified"" mantra really did a number on the job market.",2025-07-31,1620,0.91,235,0,1972.5,145.1181988859865,reddit
+1lvanv5,cscareerquestions,labour,800000,PSA from my recent loops- be careful with AI.,2025-07-09,1576,0.97,168,1,1830.0,134.6343746318658,reddit
+1m62df3,cscareerquestions,labour,800000,[Rant] Rejected in 15 minutes by CEO after 4 rounds and days of work,2025-07-22,1564,0.95,415,0,2186.5,160.86232794129756,reddit
+1tirbgk,cscareerquestions,labour,800000,"Today begins the layoff of 8,000 employees from Meta",2026-05-20,1552,0.97,479,1,2272.5,167.18940784203008,reddit
+1ol1dfl,cscareerquestions,labour,800000,"Amazon layoffs - In California, SWEs were the largest category cut",2025-10-31,1523,0.98,277,0,1938.5,142.61679520430155,reddit
+1oq1108,cscareerquestions,labour,800000,U.S. Companies Announce Most October Job Cuts in Over 20 Years,2025-11-06,1508,0.98,212,0,1826.0,134.34009184578522,reddit
+1nhu2ln,cscareerquestions,labour,800000,Elon Musk-led Tesla sued for hiring H1-B visa holders over US citizens. Will other companies also be sued in the future?,2025-09-15,1506,0.95,313,1,1977.5,145.48605236858722,reddit
+1mjz3ry,cscareerquestions,labour,800000,Thoughts about OpenAI giving 1.5M bonus to every employee?,2025-08-07,1494,0.87,367,0,2044.5,150.41528903543696,reddit
+1mcb3hg,cscareerquestions,labour,800000,Meta Is Going to Let Job Candidates Use AI During Coding Tests,2025-07-29,1486,0.98,282,1,1911.0,140.59360104999757,reddit
+1p35hxw,cscareerquestions,labour,800000,40% of Amazon's recent layoffs were engineers,2025-11-21,1471,0.93,232,0,1819.0,133.8250969701442,reddit
+1skyi7l,cscareerquestions,labour,800000,I think AI has killed my passion for Software Engineering,2026-04-14,1458,0.95,372,0,2016.0,148.3185241846128,reddit
+1pkq5vb,cscareerquestions,labour,800000,"Whatever happened to ""learn on the job""",2025-12-12,1433,0.97,382,0,2006.0,147.58281721941137,reddit
+1n4cqbs,cscareerquestions,labour,800000,Why do non technical people occupy leadership positions?,2025-08-30,1411,0.94,342,0,1924.0,141.55002010475945,reddit
+1sou9lm,cscareerquestions,labour,800000,"Meta to layoff 10% of its global workforce, roughly around 8000+ employees starting may 20th.",2026-04-18,1398,0.98,286,0,1827.0,134.41366254230536,reddit
+1mlp72s,cscareerquestions,labour,800000,Do you feel the vibe shift introduced by GPT-5?,2025-08-09,1401,0.92,396,0,1995.0,146.77353955768976,reddit
+1tjvni0,cscareerquestions,labour,800000,I joined Google and I’m really disappointed,2026-05-21,1391,0.93,278,0,1808.0,133.0158193084226,reddit
+1n5jy5m,cscareerquestions,labour,800000,Family of Microsoft employee who died warn tech companies not to overwork workers,2025-09-01,1372,0.96,232,0,1720.0,126.54159801464982,reddit
+1t89s4f,cscareerquestions,labour,800000,"No, you are not cooked. The golden age is coming (AI hope post)",2026-05-09,1367,0.89,273,0,1776.5,130.69834236803803,reddit
+1lvvkp8,cscareerquestions,labour,800000,Microsoft Touts $500 Million AI Savings While Slashing Jobs,2025-07-09,1364,0.96,197,0,1659.5,122.09057087518103,reddit
+1tb026z,cscareerquestions,labour,800000,4 engineers now doing the job of 12 at my friend's company because AI agents handle the rest,2026-05-12,1337,0.89,522,1,2122.0,156.11701801574822,reddit
+1muu5uv,cscareerquestions,labour,800000,MIT Study finds that 95% of AI initiatives at companies fail to turn a profit,2025-08-19,1303,0.98,193,0,1592.5,117.1613342083313,reddit
+1l4tavv,cscareerquestions,labour,800000,"Company bought out, Devs in denial.",2025-06-06,1301,0.98,259,0,1689.5,124.29769177078539,reddit
+1mo7072,cscareerquestions,labour,800000,big corp is slow as hell so layoffs don't surprise me anymore,2025-08-12,1292,0.98,167,0,1542.5,113.48279938232405,reddit
+1lbqi0z,cscareerquestions,labour,800000,"After working on a startup for a couple of months, I’ve realized: your jobs are probably safe",2025-06-15,1288,0.96,190,0,1573.0,115.72670562618848,reddit
+1kzmu2a,cscareerquestions,labour,800000,Chinese student visa revocations will cripple the US in the AI race,2025-05-31,1289,0.83,501,0,2040.5,150.12100624935638,reddit
+1stowfo,cscareerquestions,labour,800000,Microsoft offers voluntary retirement to eligible US employees | 7% of staff,2026-04-23,1286,0.99,202,0,1589.0,116.9038367705108,reddit
+1r3edov,cscareerquestions,labour,800000,The market is healing it self: Undergrad CS enrollment declined across the University of California system for the first time since the dot-com bust,2026-02-13,1274,0.96,230,2,1623.0,119.40524045219573,reddit
+1szud86,cscareerquestions,labour,800000,Got fired because of AI,2026-04-30,1216,0.92,223,0,1550.5,114.0713649544852,reddit
+1saxvcj,cscareerquestions,labour,800000,German tech companies punish people who actually build things. I'm done. Moving to the US next year.,2026-04-02,1212,0.77,552,0,2040.0,150.0842209010963,reddit
+1lh2oaf,cscareerquestions,labour,800000,The Computer-Science Bubble Is Bursting,2025-06-21,1214,0.86,454,0,1895.0,139.41646990567523,reddit
+1l3oip7,cscareerquestions,labour,800000,The hidden time bomb in the tax code that's fueling mass tech layoffs: A decades-old tax rule helped build America's tech economy. A quiet change under Trump helped dismantle it,2025-06-05,1205,0.94,238,0,1562.0,114.91742796446687,reddit
+1s8lgwr,cscareerquestions,labour,800000,I analyzed 11k available dev jobs to find out what skills employers are looking for right now,2026-03-31,1197,0.97,184,1,1475.0,108.51677736721423,reddit
+1mk6kyg,cscareerquestions,labour,800000,"36% drop in U.S. tech job postings since pre-pandemic levels. 5 years of over 100,000+ CS graduates per year since then.",2025-08-07,1192,0.97,211,0,1508.5,110.9813957006391,reddit
+1nt6pfn,cscareerquestions,labour,800000,"Is it just me, or is the code at modern companies wildly overcomplicated?",2025-09-29,1164,0.95,300,0,1614.0,118.74310418351442,reddit
+1rfn0nk,cscareerquestions,labour,800000,"Block laying off more than 4,000 employees, or about half of its headcount",2026-02-26,1158,0.97,456,0,1842.0,135.51722299010754,reddit
+1n3dqoa,cscareerquestions,labour,800000,If You Can Get a Tech Job in this Market...it only goes up from here.,2025-08-29,1159,0.89,202,0,1462.0,107.56035831245235,reddit
+1l5apme,cscareerquestions,labour,800000,Got an offer from Meta - here are my tips,2025-06-07,1143,0.87,289,1,1578.5,116.13134445704927,reddit
+1tcf5bi,cscareerquestions,labour,800000,Cisco announces plans to lay off 4000 employees,2026-05-13,1139,0.98,143,0,1353.5,99.5779377400166,reddit
+1r0pmyz,cscareerquestions,labour,800000,I miss the 2010's when programmers were on top of the world.,2026-02-10,1141,0.94,168,1,1395.0,102.63112164560262,reddit
+1mfteom,cscareerquestions,labour,800000,Hiring norms have changed much faster than entry level candidates realize,2025-08-02,1138,0.93,237,0,1493.5,109.87783525283692,reddit
+1rajiar,cscareerquestions,labour,800000,Never Show Weakness at Work,2026-02-21,1137,0.89,255,0,1519.5,111.79067336236069,reddit
+1sg57ba,cscareerquestions,labour,800000,Job Market is amazing for AI engineers,2026-04-08,1125,0.87,358,1,1664.0,122.42163900952168,reddit
+1nv27jt,cscareerquestions,labour,800000,"Why do so many new grads cannot perform the ""basics""?",2025-10-01,1117,0.91,512,0,1885.0,138.68076294047378,reddit
+1ltc3gd,cscareerquestions,labour,800000,"Honestly why aren't we creating AI CEOs, AI CFOs, AI CTOs etc",2025-07-06,1119,0.92,265,0,1516.5,111.56996127280026,reddit
+1ncpim0,cscareerquestions,labour,800000,"Its been almost 4 years of horrible job market. At what point do we admit this isn't ""cyclical""?",2025-09-09,1117,0.87,551,1,1945.5,143.13179007994256,reddit
+1t777mf,cscareerquestions,labour,800000,"Fidelity Investments Announces RTO, Layoffs, Scrapping Agile, All Within a Month",2026-05-08,1102,0.97,284,0,1528.0,112.41602428278193,reddit
+1r6olcv,ExperiencedDevs,labour,200000,An AI CEO finally said something honest,2026-02-16,23825,0.97,828,11,25089.0,2055.4514503857185,reddit
+1mg2r6y,ExperiencedDevs,labour,200000,The era of AI slop cleanup has begun,2025-08-02,4254,0.97,476,1,4970.0,407.17420815564674,reddit
+1sfw7o5,ExperiencedDevs,labour,200000,You should really consider letting some plates hit the floor.,2026-04-08,2664,0.99,243,0,3028.5,248.1141024948443,reddit
+1l157qe,ExperiencedDevs,labour,200000,How to deal with a dev who works constantly?,2025-06-02,2209,0.96,684,0,3235.0,265.03190410131134,reddit
+1o29tge,ExperiencedDevs,labour,200000,"Thanks to all the AI coders out there, im busier than i've been in years",2025-10-09,2149,0.97,279,1,2569.5,210.50988488046968,reddit
+1rcb6mh,ExperiencedDevs,labour,200000,I'm 100% sure this post will be quickly deleted but I just have to write it because it's sad what is happenning and there's nothing more I can do. Moderation actions here are harmful and are destroyin,2026-02-23,2060,0.91,459,3,2754.5,225.6662688862634,reddit
+1mrfgm2,ExperiencedDevs,labour,200000,Junior devs not interested in software engineering,2025-08-16,1803,0.96,856,0,3087.0,252.90679689667638,reddit
+1pt4yxh,ExperiencedDevs,labour,200000,I miss having juniors around,2025-12-22,1686,0.96,186,0,1965.0,160.9853760615384,reddit
+1sgcy1e,ExperiencedDevs,labour,200000,I'm giving up; Becoming a yes man.,2026-04-09,1664,0.97,330,0,2159.0,176.87909766761396,reddit
+1n7zuba,ExperiencedDevs,labour,200000,A 5 min weekly habit completely changed my performance review and got me a bigger raise,2025-09-04,1609,0.96,184,0,1885.0,154.43126405903303,reddit
+1nq5npn,ExperiencedDevs,labour,200000,My coworker uses AI to reply to my PR review and I hate it,2025-09-25,1508,0.98,368,0,2060.0,168.76838406451355,reddit
+1n5xc3s,ExperiencedDevs,labour,200000,I’m told that our “engineering-focused” culture is offputting to women,2025-09-01,1487,0.88,669,0,2490.5,204.0376992779956,reddit
+1lb5ktb,ExperiencedDevs,labour,200000,I really worry that ChatGPT/AI is producing very bad and very lazy junior engineers,2025-06-14,1448,0.95,518,1,2227.0,182.45009286974354,reddit
+1lwk503,ExperiencedDevs,labour,200000,"Study: Experienced devs think they are 24% faster with AI, but they're actually ~20% slower",2025-07-10,1436,0.95,370,0,1991.0,163.11546246235267,reddit
+1on84au,ExperiencedDevs,labour,200000,AI won’t make coding obsolete. Coding isn’t the hard part,2025-11-03,1431,0.97,257,2,1820.5,149.14701125701308,reddit
+1n74jad,ExperiencedDevs,labour,200000,Finally got an offer after a layoff as a 50+ year old SWE,2025-09-03,1423,0.98,134,0,1624.0,133.04847365085922,reddit
+1towli9,ExperiencedDevs,labour,200000,Today I announced that I won't be reviewing AI generated PRs at company meeting,2026-05-27,1402,0.86,391,0,1988.5,162.91064646227437,reddit
+1rnkv2t,ExperiencedDevs,labour,200000,The AI coding productivity data is in and it's not what anyone expected,2026-03-07,1389,0.89,430,2,2038.0,166.96600326382458,reddit
+1mha63e,ExperiencedDevs,labour,200000,"Aren't you tired of being a ""resource""?",2025-08-04,1374,0.93,146,1,1595.0,130.67260804995104,reddit
+1se1g7m,ExperiencedDevs,labour,200000,Added fake latency to a 200ms API because users said it felt like it was 'making things up'. It worked. I'm still uncomfortable about it.,2026-04-06,1361,0.77,425,0,1998.5,163.72991046258753,reddit
+1r89vhp,ExperiencedDevs,labour,200000,What’s the mood at your company?,2026-02-18,1334,0.96,516,0,2108.0,172.70085126601677,reddit
+1pwfx9l,ExperiencedDevs,labour,200000,"Things I did to help me get more ""visibility"" as a software engineer",2025-12-26,1287,0.94,244,0,1653.0,135.42433925176744,reddit
+1nbfh94,ExperiencedDevs,labour,200000,Are daily standups ever actually about unblocking?,2025-09-08,1291,0.98,472,0,1999.0,163.7708736626032,reddit
+1me6nps,ExperiencedDevs,labour,200000,The slop webdev jobs are now starting to become segregated,2025-07-31,1232,0.96,187,0,1512.5,123.91368004736735,reddit
+1sqtvxz,ExperiencedDevs,labour,200000,"You should really consider interviewing, even while you still have a job.",2026-04-20,1211,0.96,217,0,1536.5,125.87991364811896,reddit
+1o643iz,ExperiencedDevs,labour,200000,I am blissfully using AI to do absolutely nothing useful,2025-10-14,1212,0.96,299,0,1660.5,136.0387872520023,reddit
+1qxxfrf,ExperiencedDevs,labour,200000,10 years in and I'm finally starting to value boring technology.,2026-02-06,1164,0.97,224,0,1500.0,122.88960004697589,reddit
+1sbv2eo,ExperiencedDevs,labour,200000,Junior devs who learned to code with AI assistants are mass entering the job market. How is your team handling it?,2026-04-04,1169,0.96,479,0,1887.5,154.63608005911132,reddit
+1tlcfq2,ExperiencedDevs,labour,200000,Agent Use is gonna drop off a cliff once its all usage based,2026-05-23,1140,0.92,487,0,1870.5,153.24333125857893,reddit
+1s7q6lp,ExperiencedDevs,labour,200000,"Laid off on Friday, no one tells you the the following Monday is quite possibly the strangest feeling of floating in the void possible",2026-03-30,1127,0.97,250,0,1502.0,123.05345284703851,reddit
+1nt1n2s,ExperiencedDevs,labour,200000,"Am I the only one on here who feels like shit will get done when it gets done, and that stressing about it will only make things worse?",2025-09-28,1110,0.96,204,0,1416.0,116.00778244434524,reddit
+1o7e3dp,ExperiencedDevs,labour,200000,Execs thirsting over AI is killing my passion for software engineering,2025-10-15,1099,0.96,160,0,1339.0,109.69944964193381,reddit
+1rg8ppr,ExperiencedDevs,labour,200000,My junior colleague is too good,2026-02-27,1096,0.97,170,2,1355.0,111.01027204243488,reddit
+1rpm839,ExperiencedDevs,labour,200000,Whatever happened to just asking questions at work?,2026-03-10,1092,0.95,248,0,1464.0,119.94024964584847,reddit
+1qqy2ro,ExperiencedDevs,labour,200000,Anthropic: AI assisted coding doesn't show efficiency gains and impairs developers abilities.,2026-01-30,1093,0.92,456,0,1777.0,145.58321285565077,reddit
+1mvbqy5,ExperiencedDevs,labour,200000,I don't want to command AI agents,2025-08-20,1084,0.96,473,0,1793.5,146.9349984561675,reddit
+1syqq4p,ExperiencedDevs,labour,200000,Anyone think the job hopping culture produces too many engineers that don’t care about maintainability?,2026-04-29,1071,0.95,250,0,1446.0,118.46557444528476,reddit
+1t0e3e6,ExperiencedDevs,labour,200000,Has anyone actually seen an outsourced dev team from a big Indian IT firm deliver something on time that didn’t need to be rebuilt?,2026-05-01,1030,0.91,358,1,1569.0,128.54252164913677,reddit
+1qq8y8u,ExperiencedDevs,labour,200000,"AI is working great for my team, and y'all are making me feel crazy",2026-01-29,1027,0.77,818,1,2256.0,184.82595847065173,reddit
+1t2vgbv,ExperiencedDevs,labour,200000,The ageism in our industry needs to change,2026-05-03,1001,0.94,424,0,1637.0,134.11351685126635,reddit
+1lrk3wq,ExperiencedDevs,labour,200000,"Why many C-level just join a company to do a ""transformation"" and leave in 1 year?",2025-07-04,972,0.98,278,0,1389.0,113.79576964349967,reddit
+1mrdn6m,ExperiencedDevs,labour,200000,Our CEO confirmed AI will NOT be taking our jobs at our company,2025-08-15,964,0.95,268,1,1368.0,112.07531524284201,reddit
+1m3apfh,ExperiencedDevs,labour,200000,I messed up in my 1:1 with my manager — now I feel like I'm in a corporate Game of Thrones,2025-07-18,959,0.91,222,0,1292.0,105.8489088404619,reddit
+1l770mk,ExperiencedDevs,labour,200000,It took me a long time to recognize what makes a senior-level different from a mid-level,2025-06-09,945,0.94,140,0,1155.0,94.62499203617143,reddit
+1rfswh8,ExperiencedDevs,labour,200000,"I delivered three major projects at a bank and got fired anyway, 25 years in tech and I'm still learning the same lesson",2026-02-27,930,0.9,303,0,1384.5,113.42710084335874,reddit
+1lz4dmj,ExperiencedDevs,labour,200000,"AI skeptic, went “all in” on an agentic workflow to see what the hype is all about. A review",2025-07-13,926,0.95,213,0,1245.5,102.03933123900565,reddit
+1lpyimz,ExperiencedDevs,labour,200000,"All high value work is deep work, and all motivation is based on belief.",2025-07-02,922,0.95,83,0,1046.5,85.73597763277351,reddit
+1qj93oq,ExperiencedDevs,labour,200000,The actual difference between senior devs and everyone else,2026-01-21,917,0.87,198,1,1216.0,99.62250243808178,reddit
+1odmu5l,ExperiencedDevs,labour,200000,How long did it take until you stopped caring?,2025-10-22,904,0.97,279,0,1322.5,108.34766404141708,reddit
+1nkg6s6,ExperiencedDevs,labour,200000,From startup to FAANG world - how to deal with the BS ?,2025-09-18,900,0.96,305,0,1357.5,111.21508804251317,reddit
+1m7zo73,ExperiencedDevs,labour,200000,"Has anyone actually seen a real-world, production-grade product built almost entirely (90–100%) by AI agents — no humans coding or testing?",2025-07-24,894,0.95,653,4,1881.5,154.14452165892342,reddit
+1ns20cq,ExperiencedDevs,labour,200000,Make us log time - Be careful what you wish for,2025-09-27,893,0.97,111,0,1059.5,86.80102083318063,reddit
+1oh4nxi,ExperiencedDevs,labour,200000,"Cost saving is all politics, i'm getting paid to do nothing",2025-10-27,885,0.97,105,0,1042.5,85.40827203264824,reddit
+1p0qqmx,ExperiencedDevs,labour,200000,I stopped using copilot and didn't notice a decrease in productivity,2025-11-18,865,0.96,251,0,1241.5,101.71162563888038,reddit
+1nb8svg,ExperiencedDevs,labour,200000,Had an existential crisis Friday afternoon at work…,2025-09-07,860,0.96,396,1,1456.0,119.28483844559793,reddit
+1oovm5v,ExperiencedDevs,labour,200000,Has software development become a bureaucratic nightmare?,2025-11-05,857,0.96,393,0,1446.5,118.50653764530041,reddit
+1nrsnp0,ExperiencedDevs,labour,200000,Trying to hire “senior” React devs… is this really what the market looks like?,2025-09-27,854,0.92,611,1,1772.5,145.21454405550983,reddit
+1mbwide,ExperiencedDevs,labour,200000,Anyone else feel like non-coding work is now the real bottleneck?,2025-07-28,854,0.91,227,0,1194.5,97.86108483740847,reddit
+1o35z8f,ExperiencedDevs,labour,200000,Why do people think software development is easy?,2025-10-10,856,0.95,465,0,1553.5,127.27266244865136,reddit
+1nijc9v,ExperiencedDevs,labour,200000,What are these founders supposedly working 18 hours a day actually doing?,2025-09-16,813,0.97,360,0,1353.0,110.84641924237225,reddit
+1rqt03s,ExperiencedDevs,labour,200000,We just got hit with the vibe-coding hammer,2026-03-11,800,0.95,712,0,1868.0,153.03851525850064,reddit
+1mth51s,ExperiencedDevs,labour,200000,Cautionary tale: Do not ignore an introduction of time tracking,2025-08-18,800,0.97,178,0,1067.0,87.41546883341552,reddit
+1nph1rl,ExperiencedDevs,labour,200000,I did it. After 13 years I fixed a real bug with sleep(1000).,2025-09-24,796,0.92,181,0,1067.5,87.45643203343117,reddit
+1s5ra5c,ExperiencedDevs,labour,200000,Ai developer tools are making juniors worse at actual programming,2026-03-28,789,0.96,385,1,1368.5,112.11627844285766,reddit
+1rdkyb7,ExperiencedDevs,labour,200000,lack of junior folks,2026-02-24,786,0.96,243,1,1152.5,94.42017603609314,reddit
+1maw3hb,ExperiencedDevs,labour,200000,Does this AI stuff remind anyone of blockchain?,2025-07-27,789,0.86,405,0,1396.5,114.41021764373455,reddit
+1o46r7s,ExperiencedDevs,labour,200000,Am I suffering from a serious case of copium or is tech journalism seriously out of touch with reality when it comes to AI?,2025-10-11,785,0.96,353,1,1316.5,107.85610564122916,reddit
+1s5nkcb,ExperiencedDevs,labour,200000,What explains the dramatic shift in dev culture from the relaxed wlb-focused 2010s to what we have today?,2026-03-28,776,0.96,363,1,1322.5,108.34766404141708,reddit
+1ojgjsl,ExperiencedDevs,labour,200000,I don't have the stress tolerance for this career,2025-10-29,762,0.97,143,1,978.5,80.16498243064393,reddit
+1r9iybj,ExperiencedDevs,labour,200000,The gap between LLM functionality and social media/marketing seems absolutely massive,2026-02-20,758,0.93,688,1,1792.0,146.81210885612052,reddit
+1loyh1u,ExperiencedDevs,labour,200000,"New senior handles all the ""thinking"" for juniors.",2025-07-01,755,0.94,284,0,1181.0,96.75507843698568,reddit
+1t7fgep,ExperiencedDevs,labour,200000,the fastest way to slow down a project is to add more developers to it,2026-05-08,748,0.96,141,0,959.5,78.6083808300489,reddit
+1plxapk,ExperiencedDevs,labour,200000,"Not seen as ""staff engineer material"" because of my personality (they said technical competence meets the bar). I don't know if I can change my personality.",2025-12-13,741,0.94,406,0,1350.0,110.6006400422783,reddit
+1pdid2j,ExperiencedDevs,labour,200000,"Anthropic effectively admitted that they couldn't scale their infrastructure fast enough with organic hiring, so they bought a shortcut",2025-12-03,741,0.89,269,1,1146.5,93.92861763590524,reddit
+1qjhbux,ExperiencedDevs,labour,200000,Learned how consultants...take over,2026-01-22,740,0.98,72,0,848.0,69.47358722655703,reddit
+1l3cmx3,ExperiencedDevs,labour,200000,Today I was asked to confirm forced usage of coding assistants.,2025-06-04,740,0.97,338,0,1247.0,102.16222083905262,reddit
+1tesidz,ExperiencedDevs,labour,200000,Token Based Billing Changes June 1,2026-05-16,734,0.96,371,1,1292.5,105.88987204047756,reddit
+1lvo7fd,ExperiencedDevs,labour,200000,Is this your situation too with daily standups? Do you love them or hate them?,2025-07-09,717,0.96,314,0,1188.0,97.3285632372049,reddit
+1md8kau,ExperiencedDevs,labour,200000,“Everything sucks because of decisions made years ago”,2025-07-30,699,0.97,290,0,1134.0,92.90453763551376,reddit
+1lkz5a9,ExperiencedDevs,labour,200000,Dealing with Junior dev and AI usage.,2025-06-26,705,0.93,374,0,1266.0,103.71882243964765,reddit
+1teyql0,ExperiencedDevs,labour,200000,What we can learn from the Atlassian layoff video,2026-05-16,701,0.93,163,0,945.5,77.46141122961046,reddit
+1nn0yl4,ExperiencedDevs,labour,200000,Designing Data Intensive Applications 2nd edition: 12 chapters already available on O'Reilly,2025-09-21,693,0.98,117,1,870.5,71.31693122726168,reddit
+1l9bm1r,ExperiencedDevs,labour,200000,My manager won't promote me but still expects me to overperform,2025-06-12,686,0.98,199,0,984.5,80.65654083083184,reddit
+1qabyfc,ExperiencedDevs,labour,200000,"Is anyone else okay with being ""left behind"" in regards to AI?",2026-01-11,671,0.88,578,0,1538.0,126.00280324816595,reddit
+1p6lyoq,ExperiencedDevs,labour,200000,What happened in the last few months (1 to 3) that suddenly people are having their come to Jesus moment with AI and Agentic Coding?,2025-11-25,675,0.89,510,1,1442.0,118.13786884515949,reddit
+1shhupi,ExperiencedDevs,labour,200000,Getting Laid Off Without Warning Taught Me Everything I Need to Know About Workplace Loyalty,2026-04-10,667,0.87,223,0,1001.5,82.04928963136423,reddit
+1laxo9j,ExperiencedDevs,labour,200000,Got pulled into a legacy cron job that sends SMS… with hardcoded vendor credentials,2025-06-14,654,0.96,64,0,750.0,61.44480002348794,reddit
+1moz96e,ExperiencedDevs,labour,200000,"Cautionary tale: Company is crumbling, in part due to tech debt",2025-08-13,656,0.97,260,0,1046.0,85.69501443275784,reddit
+1plqv2g,ExperiencedDevs,labour,200000,How to handle a new colleague who is into “performative overwork”?,2025-12-13,648,0.97,186,0,927.0,75.9457728290311,reddit
+1mcogf5,ExperiencedDevs,labour,200000,Airbnb did a large scale React TESTING migration with LLMs in 6 weeks.,2025-07-29,641,0.89,236,0,995.0,81.51676803116067,reddit
+1svyan6,ExperiencedDevs,labour,200000,What happened to all the blockchain developers and the hype?,2026-04-26,634,0.95,311,1,1102.5,90.32385603452728,reddit
+1lf8sib,antiwork,labour,2800000,Mark Ruffalo says extreme wealth of billionaires is making U.S. 'desperate' - not immigrants,2025-06-19,41402,0.93,1093,4,43049.5,2899.9071773972337,reddit
+1nb0hxp,antiwork,labour,2800000,"Huckabee Sanders who made it easier to employ 15 year olds in her state at dangerous jobs, talks at a conference at MLK where black kids are forced to stand outside in the rain.",2025-09-07,41003,0.94,971,7,42473.5,2861.106574970241,reddit
+1qw55gs,antiwork,labour,2800000,"You could be working in a literal warzone, and your employer would still have no remorse laying you off. Anyone else feel infuriated?",2026-02-04,40738,0.97,579,2,41610.5,2802.973033486744,reddit
+1s7xrvd,antiwork,labour,2800000,"This was drawn 134 years ago, seems familiar somehow?",2026-03-30,30676,0.98,430,16,31353.0,2112.005708148421,reddit
+1qrhuoc,antiwork,labour,2800000,Man Who Leaked Billionaire's Tax Returns to Expose Unfair System Given 5 Years in Prison,2026-01-30,28492,0.98,351,8,29034.5,1955.826547164078,reddit
+1o6zdov,antiwork,labour,2800000,Turned in Notice after boss gave me a $0 bonus,2025-10-15,25499,0.97,700,1,26551.0,1788.5326302761691,reddit
+1l3kevx,antiwork,labour,2800000,"As a European, the U.S. work culture looks like dystopia with better branding",2025-06-04,25262,0.94,1944,9,28196.0,1899.3433785268678,reddit
+1smpd56,antiwork,labour,2800000,"West Virginia dad dies waiting for $50,000 cancer treatment his insurer ruled 'not medically necessary'",2026-04-16,24734,0.98,1436,12,26912.0,1812.8503689500308,reddit
+1q3rzus,antiwork,labour,2800000,"My company got rid of bonus incentive to work on holidays, is mad nobody worked on their holidays.",2026-01-04,24561,0.97,802,0,25764.0,1735.5186127240113,reddit
+1oq2lhh,antiwork,labour,2800000,"Got laid off and told I was ""expendable."" My entire department fell apart without me.",2025-11-06,24482,0.95,602,0,25385.0,1709.9883552243061,reddit
+1nyvn5l,antiwork,labour,2800000,Federal workers union sues Trump administration over email blaming Democrats for shutdown,2025-10-05,24068,0.97,164,0,24314.0,1637.8434850866174,reddit
+1p2xppj,antiwork,labour,2800000,I didn't get paid. so I shut down and made demands.,2025-11-21,23504,0.97,571,0,24360.5,1640.975825386713,reddit
+1n03q7g,antiwork,labour,2800000,"Caller Says His Employees Are Unhappy With Their Raises. Dave Ramsey Responds, 'A 2% Raise In A 9% Inflation Economy Is Insulting'",2025-08-25,22719,0.97,513,2,23492.5,1582.5054731182595,reddit
+1qr8qh6,antiwork,labour,2800000,"Judge dismisses murder, weapons charges against alleged UnitedHealth CEO killer Mangione",2026-01-30,22680,0.98,609,5,23603.5,1589.9826725442942,reddit
+1o92kxo,antiwork,labour,2800000,Boss accidentally told the whole team I'm replaceable during Zoom,2025-10-17,22578,0.96,945,3,24001.5,1616.7928110268342,reddit
+1mp1nrw,antiwork,labour,2800000,Mark Zuckerberg bought 11 homes to create a billionaire compound complete with private school and 7ft statue of his wife. #EATTHERICH,2025-08-13,21268,0.96,770,0,22423.0,1510.4616462160575,reddit
+1sjm0h2,antiwork,labour,2800000,Mass layoff compensation,2026-04-12,20756,0.98,382,2,21333.0,1437.0368950955337,reddit
+1oqwt47,antiwork,labour,2800000,"Mark Twain: ""If work were so pleasant, the rich would keep it for themselves""",2025-11-07,20415,0.98,73,3,20530.5,1382.9787641100106,reddit
+1s1aohm,antiwork,labour,2800000,"Bernie Sanders: “60% of our people living paycheck-to-paycheck, and one guy, Elon Musk, owns more wealth than the bottom 53% of American households... Think maybe that might be an issue that we should",2026-03-23,20261,0.98,461,1,20954.5,1411.5403186743245,reddit
+1okv4bn,antiwork,labour,2800000,"'If you're a billionaire, why are you a billionaire?' Billie Eilish calls out billionaires in front of Mark Zuckerberg",2025-10-31,20259,0.96,738,0,21366.0,1439.259846276247,reddit
+1mmyr72,antiwork,labour,2800000,"With absolutely no plan after this, I've quit my job at the WORST time for the company. Upper management and my only 2 coworkers in my department, left me alone for 2 weeks and went across the country",2025-08-11,20165,0.97,435,2,20821.5,1402.5811517944808,reddit
+1o7fye0,antiwork,labour,2800000,"As billionaire wealth soars $33 trillion, Mark Cuban says it's time for workers to receive a cut of their employers' success in the form of stocks",2025-10-15,20131,0.97,694,1,21174.0,1426.3263121339162,reddit
+1qvaflt,antiwork,labour,2800000,‘I don’t support ICE’: Gas station refusal ignites debate over denying service to federal agents,2026-02-04,20049,0.97,712,0,21117.0,1422.4866691854118,reddit
+1l7maze,antiwork,labour,2800000,How I found out I was losing my job,2025-06-10,20042,0.98,226,1,20383.0,1373.042845953793,reddit
+1nf61g8,antiwork,labour,2800000,RTO seriously backfired,2025-09-12,19054,0.96,551,2,19884.5,1339.4628106936268,reddit
+1sxlmgv,antiwork,labour,2800000,"Google co-founder slams California billionaire tax, says “I fled socialism,” after reportedly leaving the state to avoid a proposed 5% wealth tax. He has a reported net worth of around $270 billion. H",2026-04-28,18858,0.95,1606,0,21267.0,1432.5909927341077,reddit
+1qygqvo,antiwork,labour,2800000,Bills in multiple states aim to shut out ex-ICE agents from public-sector jobs,2026-02-07,18795,0.98,375,3,19363.5,1304.3671269011563,reddit
+1rh20lc,antiwork,labour,2800000,AI has absolutely ruined my life,2026-02-28,18688,0.94,986,0,20167.0,1358.4926200436707,reddit
+1o85wj4,antiwork,labour,2800000,My boss accidentally sent me a spreadsheet with everyone's salaries,2025-10-16,18638,0.96,1276,2,20556.0,1384.6964991132888,reddit
+1n2ufyz,antiwork,labour,2800000,Got laid off then poached their biggest client. Oops.,2025-08-29,18176,0.96,480,2,18900.0,1273.144767135686,reddit
+1lh689f,antiwork,labour,2800000,"Republican Senator callously says 'biblically, we are supposed to work' to millions set to lose health care.
+The former billionaire, who inherited a coal mining business from his father, presides over",2025-06-21,17743,0.97,468,1,18447.0,1242.6297100186243,reddit
+1pi79jk,antiwork,labour,2800000,Company just announced record profits then told us there's no budget for raises this year,2025-12-09,17731,0.98,864,1,19029.0,1281.8344853875644,reddit
+1oqrjgp,antiwork,labour,2800000,I couldn't stop laughing during an interview because of this sub--THANK A LOT FOLKS,2025-11-07,17641,0.95,606,0,18550.0,1249.5680121887287,reddit
+1qdl5gy,antiwork,labour,2800000,“People in the plant are ready to fight”: Ford Rouge workers speak out in defense of co-worker victimized for opposing Trump,2026-01-15,17519,0.98,301,2,17974.5,1210.801090840232,reddit
+1qbsw7h,antiwork,labour,2800000,Mamdani 'outraged' after New York City Council employee detained by ICE,2026-01-13,17288,0.97,529,0,18081.5,1218.0088416383019,reddit
+1pw61ky,antiwork,labour,2800000,"Just two months after buying Walgreens for $10 billion, the private equity firm Sycamore Partners stripped hourly workers of paid vacation, including Christmas and New Year’s Day.",2025-12-26,17183,0.98,642,6,18158.0,1223.1620466481368,reddit
+1s8vb3j,antiwork,labour,2800000,"Oracle slashes 30,000 jobs with a cold 6 a.m. email.
+Workers across the U.S., India, and other regions learned their jobs were gone before most people had finished their morning coffee, with no prior ",2026-03-31,17173,0.98,891,4,18517.5,1247.3787420865115,reddit
+1tkhcpt,antiwork,labour,2800000,"'It's All a Scam': American Student Took Out $49,548 in Loans, Paid $25K — Balance Rose to $50,121",2026-05-22,17139,0.95,1462,1,19334.0,1302.379943269913,reddit
+1pz6bdm,antiwork,labour,2800000,Boomers won’t retire and it’s screwing the rest of us. There I said it.,2025-12-30,17010,0.84,2939,2,21422.5,1443.0658081462557,reddit
+1p6vcj2,antiwork,labour,2800000,Anti-ICE commercials encouraging agents to 'walk away' will air Thanksgiving weekend,2025-11-26,16969,0.97,304,1,17427.0,1173.920309887492,reddit
+1pc1y2g,antiwork,labour,2800000,"I repeat, tax the billionaires (not my pic, this is from UK)",2025-12-02,16933,0.98,225,4,17278.5,1163.917029574283,reddit
+1lldmzg,antiwork,labour,2800000,Why don't more people unionise in the US?,2025-06-26,16531,0.97,827,4,17779.5,1197.6654702269275,reddit
+1rjdb26,antiwork,labour,2800000,Judge rules in favor of Iowa teacher fired for Charlie Kirk comments,2026-03-03,16252,0.97,343,2,16770.5,1129.6970538226994,reddit
+1nxxv5x,antiwork,labour,2800000,"Got written up for not working through lunch, but then discovered I wasn't being paid for it anyway",2025-10-04,16044,0.98,467,2,16748.5,1128.2150863688908,reddit
+1l9lge7,antiwork,labour,2800000,New Report: Employers in the USA Have Stolen Over $50 Trillion From Workers Since 1975,2025-06-12,15846,0.99,73,6,15967.5,1075.6052417586807,reddit
+1om9l8h,antiwork,labour,2800000,"They Preached ""We're a Family"" Until Someone Actually Needed Help",2025-11-02,15252,0.97,460,0,15942.0,1073.8875067554025,reddit
+1lko6t1,antiwork,labour,2800000,Bill Burr Jokes Trump Deportations Erase Billionaires' Excuse to Not Pay Workers a Living Wage: 'It's the Illegal Aliens' Fault',2025-06-26,15045,0.97,309,1,15510.5,1044.820736013654,reddit
+1muz9kp,recruitinghell,labour,600000,Delusional CEOs,2025-08-19,36807,0.92,2465,4,40512.5,3044.979653813903,reddit
+1t6jd62,recruitinghell,labour,600000,Imagine being added to your own rejection email...😑,2026-05-07,35637,0.97,3405,5,40754.5,3063.168733140604,reddit
+1rsl4uv,recruitinghell,labour,600000,The Situation Right Now..,2026-03-13,31031,0.99,296,4,31483.0,2366.309026621984,reddit
+1o9erjz,recruitinghell,labour,600000,Insane reply to earlier post,2025-10-17,28387,0.97,1078,1,30006.0,2255.295513541252,reddit
+1rykl1t,recruitinghell,labour,600000,Former head of HR can't find a job,2026-03-20,24856,0.98,669,3,25865.5,1944.0893856395808,reddit
+1pszdaz,recruitinghell,labour,600000,this is the most honest rejection email i’ve ever received,2025-12-22,24499,0.98,1546,1,26820.0,2015.8310229012993,reddit
+1rkldbw,recruitinghell,labour,600000,Fired on day 1 for leaving at 6:30 PM. The audacity is unreal.,2026-03-04,23741,0.96,1028,2,25287.0,1900.6084666705874,reddit
+1qazv96,recruitinghell,labour,600000,"Last day at job, I don't think anyone understands what that means.",2026-01-12,22129,0.97,1435,1,24283.5,1825.183916652636,reddit
+1pdar5o,recruitinghell,labour,600000,The texts I got after accepting another role,2025-12-03,21200,0.97,2164,1,24448.0,1837.5479809057033,reddit
+1o4mtyo,recruitinghell,labour,600000,"Got an offer letter, asked about benefits ( paid days off, sick leave, unpaid days). Offer was withdrawn",2025-10-12,18264,0.97,1771,0,20920.5,1572.4158431993524,reddit
+1qlzv3o,recruitinghell,labour,600000,Imagine having 2 years of experience just to be lumped in the same category as people with no experience,2026-01-24,18238,0.98,307,0,18698.5,1405.407023926918,reddit
+1mdk2a0,recruitinghell,labour,600000,Uniquely awful job rejection letter,2025-07-30,18189,0.98,1723,6,20785.5,1562.269042748507,reddit
+1q62yui,recruitinghell,labour,600000,Was I correct to basically pull my application?,2026-01-07,17135,0.96,1560,1,19477.0,1463.920239860127,reddit
+1s3jr9a,recruitinghell,labour,600000,Interviewer didn’t show up,2026-03-25,15171,0.99,327,2,15665.5,1177.44224046459,reddit
+1m1f1ja,recruitinghell,labour,600000,Networking is a concept made up by the upper class to morally justify bypassing meritocracy to give their friends and family entry level jobs.,2025-07-16,15088,0.94,872,7,16410.0,1233.3999659138822,reddit
+1o25fb5,recruitinghell,labour,600000,Good strategy to get a raise?,2025-10-09,14544,0.98,197,3,14845.5,1115.8098229113064,reddit
+1oplcwn,recruitinghell,labour,600000,I was still in the building after my interview???,2025-11-06,13993,0.99,288,0,14425.0,1084.2044185440434,reddit
+1kyvadk,recruitinghell,labour,600000,i beg your finest fucking pardon,2025-05-30,13486,0.99,398,2,14087.0,1058.7998366745192,reddit
+1qnpadq,recruitinghell,labour,600000,oh but have you tried tailoring your resume? 😄,2026-01-26,13379,0.98,227,1,13721.5,1031.3283139724153,reddit
+1rz1yt3,recruitinghell,labour,600000,"Got two rejection emails at 1AM for jobs I'm overqualified for, decided to reach out!",2026-03-20,13141,0.87,1655,6,15635.5,1175.1873959199577,reddit
+1r3vc5v,recruitinghell,labour,600000,“Please give your availability so I can disregard it entirely”,2026-02-13,13137,0.99,169,0,13390.5,1006.4498624966386,reddit
+1r1w3c2,recruitinghell,labour,600000,Being unemployed should not be held against you.,2026-02-11,12424,0.99,176,0,12688.0,953.6489194098316,reddit
+1rqw6xj,recruitinghell,labour,600000,HR is upset we didn’t grow up wanting to be customer service reps,2026-03-11,12150,0.99,245,2,12521.5,941.1345321871222,reddit
+1sgfdi3,recruitinghell,labour,600000,"Recruiter treated me like shit. 3 months later, karma had a full circle moment.",2026-04-09,11909,0.97,261,0,12300.5,924.5238440416641,reddit
+1s8tbw7,recruitinghell,labour,600000,Got turned down because of my manager using Chat GPT to check if my hair was up to code,2026-03-31,11920,0.95,2177,3,15191.5,1141.8156966593992,reddit
+1n6yuuy,recruitinghell,labour,600000,20 mins late CEO and messages a group I run while interviewing me.,2025-09-02,11831,0.97,322,1,12316.0,925.6888470563908,reddit
+1th7llx,recruitinghell,labour,600000,Meta employees told to work remotely Wednesday as company prepares to slash 10% of workforce,2026-05-19,11817,0.99,421,0,12448.5,935.6477437951836,reddit
+1ntwqvh,recruitinghell,labour,600000,I really have no words,2025-09-29,11042,0.97,2382,3,14621.0,1098.9360695689745,reddit
+1qwo5xb,recruitinghell,labour,600000,This explains every hiring process I’ve ever seen,2026-02-05,10853,0.99,56,3,10943.0,822.4921283970514,reddit
+1quvmmw,recruitinghell,labour,600000,Are you willing to have AI review your application?,2026-02-03,10780,0.99,122,1,10965.0,824.145681063115,reddit
+1l7ghlb,recruitinghell,labour,600000,Ghosted by the Employer,2025-06-09,10071,0.98,289,0,10504.5,789.5338173030088,reddit
+1ovud0z,recruitinghell,labour,600000,Interviewed and hired two people this year. The people that showed up to work were not the people we interviewed.,2025-11-13,10030,0.94,1005,2,11541.5,867.4762770624662,reddit
+1s7gkl5,recruitinghell,labour,600000,AI Dystopia,2026-03-30,9924,0.99,66,2,10027.0,753.6442083009443,reddit
