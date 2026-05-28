@@ -41,7 +41,8 @@ python analysis/visualise.py
 Raw tweet data cannot be shared due to X Terms of Service.
 Reddit data (data/reddit_posts_clean.csv) is included.
 Aggregate engagement statistics are in data/aggregate_stats.csv.
-Full dataset available from the author on request for academic use.
+
+Tweet IDs and Reddit post data are available at https://huggingface.co/datasets/joyboseroy/ai-layoff-discourse-amplification. Raw tweet text cannot be shared per X Terms of Service; full tweet objects can be retrieved by rehydrating the provided IDs using the X API v2.
 
 ## Citation
 
