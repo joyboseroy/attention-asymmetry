@@ -44,8 +44,22 @@ Aggregate engagement statistics are in data/aggregate_stats.csv.
 
 Tweet IDs and Reddit post data are available at https://huggingface.co/datasets/joyboseroy/ai-layoff-discourse-amplification. Raw tweet text cannot be shared per X Terms of Service; full tweet objects can be retrieved by rehydrating the provided IDs using the X API v2.
 
+## Paper
+
+arXiv: https://arxiv.org/abs/2605.29367
+
 ## Citation
 
+@misc{bose2026attention,
+  title={Attention Asymmetry in AI Layoff Discourse on X: 
+         A Computational Analysis of Capital vs Labour Amplification},
+  author={Bose, Joy},
+  year={2026},
+  eprint={2605.29367},
+  archivePrefix={arXiv},
+  primaryClass={cs.SI},
+  url={https://arxiv.org/abs/2605.29367}
+}
 
 ## License
 MIT
